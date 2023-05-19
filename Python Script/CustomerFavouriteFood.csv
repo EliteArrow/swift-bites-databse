@@ -1,0 +1,534 @@
+customer_id,favorite_food
+C1,Tacos
+C1,Biryani
+C1,Gulab Jamun
+C2,Enchiladas
+C2,Tiramisu
+C3,Rogan Josh
+C3,Mapo Tofu
+C3,Spaghetti Carbonara
+C3,Kung Pao Chicken
+C4,Udon
+C4,Wonton Soup
+C4,Sweet and Sour Pork
+C4,Chiles Rellenos
+C5,Sweet and Sour Pork
+C5,Kung Pao Chicken
+C5,Udon
+C6,Churros
+C6,Kung Pao Chicken
+C6,Spaghetti Carbonara
+C7,Pizza Margherita
+C8,Tiramisu
+C8,Ramen
+C8,Enchiladas
+C8,Chole Bhature
+C8,Wonton Soup
+C9,Gulab Jamun
+C10,Wonton Soup
+C10,Mapo Tofu
+C10,Chiles Rellenos
+C10,Churros
+C11,Kung Pao Chicken
+C11,Burrito
+C11,Spaghetti Carbonara
+C11,Mapo Tofu
+C12,Sushi
+C12,Biryani
+C12,Rogan Josh
+C12,Gulab Jamun
+C13,Butter Chicken
+C13,Biryani
+C13,Spaghetti Carbonara
+C14,Miso Soup
+C14,Enchiladas
+C14,Kung Pao Chicken
+C15,Tempura
+C15,Burrito
+C15,Ramen
+C15,Miso Soup
+C16,Sweet and Sour Pork
+C16,Chiles Rellenos
+C16,Biryani
+C16,Enchiladas
+C17,Mapo Tofu
+C18,Pizza Margherita
+C18,Mapo Tofu
+C18,Biryani
+C19,Pizza Margherita
+C19,Wonton Soup
+C19,Tacos
+C20,Kung Pao Chicken
+C20,Miso Soup
+C20,Risotto
+C20,Fried Rice
+C22,Wonton Soup
+C22,Pizza Margherita
+C22,Lasagna
+C23,Chole Bhature
+C23,Lasagna
+C23,Spaghetti Carbonara
+C24,Udon
+C24,Risotto
+C24,Rogan Josh
+C24,Tacos
+C24,Miso Soup
+C25,Miso Soup
+C25,Spaghetti Carbonara
+C27,Rogan Josh
+C27,Butter Chicken
+C27,Chole Bhature
+C28,Chiles Rellenos
+C29,Sushi
+C29,Udon
+C30,Chiles Rellenos
+C30,Spaghetti Carbonara
+C31,Spaghetti Carbonara
+C32,Biryani
+C33,Biryani
+C33,Lasagna
+C33,Sweet and Sour Pork
+C33,Tacos
+C34,Biryani
+C35,Spaghetti Carbonara
+C36,Lasagna
+C36,Miso Soup
+C36,Mapo Tofu
+C36,Chiles Rellenos
+C37,Rogan Josh
+C37,Tempura
+C38,Tiramisu
+C39,Chole Bhature
+C39,Tempura
+C39,Kung Pao Chicken
+C39,Lasagna
+C40,Mapo Tofu
+C40,Udon
+C40,Chiles Rellenos
+C41,Tempura
+C41,Sushi
+C42,Gulab Jamun
+C42,Sushi
+C43,Tacos
+C43,Butter Chicken
+C43,Mapo Tofu
+C43,Biryani
+C44,Kung Pao Chicken
+C44,Pizza Margherita
+C44,Rogan Josh
+C44,Burrito
+C44,Spaghetti Carbonara
+C45,Fried Rice
+C45,Enchiladas
+C45,Miso Soup
+C46,Burrito
+C46,Spaghetti Carbonara
+C47,Ramen
+C47,Risotto
+C47,Lasagna
+C47,Spaghetti Carbonara
+C47,Gulab Jamun
+C48,Ramen
+C48,Wonton Soup
+C48,Pizza Margherita
+C48,Chiles Rellenos
+C48,Sushi
+C49,Burrito
+C49,Tiramisu
+C49,Ramen
+C49,Mapo Tofu
+C50,Fried Rice
+C50,Sweet and Sour Pork
+C50,Burrito
+C50,Butter Chicken
+C50,Udon
+C51,Biryani
+C51,Chole Bhature
+C51,Chiles Rellenos
+C51,Udon
+C51,Tacos
+C52,Gulab Jamun
+C52,Tempura
+C52,Butter Chicken
+C52,Burrito
+C52,Miso Soup
+C53,Fried Rice
+C54,Fried Rice
+C54,Gulab Jamun
+C54,Tiramisu
+C54,Biryani
+C55,Chiles Rellenos
+C55,Tempura
+C55,Enchiladas
+C55,Risotto
+C56,Rogan Josh
+C56,Burrito
+C57,Rogan Josh
+C58,Wonton Soup
+C59,Churros
+C59,Miso Soup
+C59,Lasagna
+C60,Wonton Soup
+C60,Sweet and Sour Pork
+C60,Tacos
+C61,Fried Rice
+C61,Ramen
+C61,Gulab Jamun
+C61,Mapo Tofu
+C62,Chole Bhature
+C63,Kung Pao Chicken
+C63,Churros
+C64,Miso Soup
+C64,Tempura
+C65,Biryani
+C65,Butter Chicken
+C65,Enchiladas
+C65,Pizza Margherita
+C65,Tiramisu
+C66,Tempura
+C66,Sushi
+C67,Fried Rice
+C68,Fried Rice
+C70,Burrito
+C70,Tacos
+C70,Rogan Josh
+C71,Enchiladas
+C71,Risotto
+C71,Biryani
+C71,Rogan Josh
+C72,Mapo Tofu
+C72,Miso Soup
+C72,Gulab Jamun
+C72,Fried Rice
+C73,Rogan Josh
+C73,Burrito
+C74,Spaghetti Carbonara
+C74,Tempura
+C74,Sushi
+C75,Kung Pao Chicken
+C75,Butter Chicken
+C75,Spaghetti Carbonara
+C75,Ramen
+C76,Chole Bhature
+C76,Wonton Soup
+C77,Miso Soup
+C78,Spaghetti Carbonara
+C79,Fried Rice
+C79,Miso Soup
+C79,Chiles Rellenos
+C79,Rogan Josh
+C79,Udon
+C80,Udon
+C80,Risotto
+C81,Chiles Rellenos
+C82,Tempura
+C82,Miso Soup
+C83,Tiramisu
+C83,Gulab Jamun
+C84,Wonton Soup
+C85,Sushi
+C85,Lasagna
+C85,Pizza Margherita
+C85,Spaghetti Carbonara
+C86,Spaghetti Carbonara
+C86,Tacos
+C86,Fried Rice
+C86,Enchiladas
+C87,Udon
+C87,Rogan Josh
+C87,Fried Rice
+C88,Fried Rice
+C88,Lasagna
+C88,Wonton Soup
+C88,Tempura
+C89,Fried Rice
+C89,Spaghetti Carbonara
+C90,Tacos
+C90,Gulab Jamun
+C90,Enchiladas
+C90,Chole Bhature
+C91,Risotto
+C91,Fried Rice
+C92,Tiramisu
+C92,Miso Soup
+C92,Butter Chicken
+C93,Tacos
+C94,Sushi
+C95,Tiramisu
+C95,Chole Bhature
+C96,Risotto
+C96,Wonton Soup
+C97,Udon
+C97,Churros
+C97,Wonton Soup
+C98,Burrito
+C98,Tacos
+C98,Churros
+C98,Kung Pao Chicken
+C98,Spaghetti Carbonara
+C99,Chiles Rellenos
+C100,Enchiladas
+C100,Pizza Margherita
+C100,Chiles Rellenos
+C100,Kung Pao Chicken
+C101,Burrito
+C101,Enchiladas
+C101,Spaghetti Carbonara
+C101,Kung Pao Chicken
+C102,Rogan Josh
+C103,Risotto
+C103,Chiles Rellenos
+C103,Butter Chicken
+C104,Miso Soup
+C105,Udon
+C106,Lasagna
+C106,Udon
+C107,Risotto
+C108,Sushi
+C108,Tempura
+C109,Fried Rice
+C109,Udon
+C109,Sweet and Sour Pork
+C109,Pizza Margherita
+C109,Butter Chicken
+C110,Spaghetti Carbonara
+C110,Rogan Josh
+C110,Risotto
+C111,Chole Bhature
+C111,Butter Chicken
+C112,Pizza Margherita
+C112,Mapo Tofu
+C113,Rogan Josh
+C113,Udon
+C114,Chiles Rellenos
+C114,Lasagna
+C114,Risotto
+C114,Biryani
+C115,Tempura
+C115,Chiles Rellenos
+C115,Fried Rice
+C116,Tempura
+C116,Tiramisu
+C117,Gulab Jamun
+C117,Sweet and Sour Pork
+C117,Pizza Margherita
+C118,Gulab Jamun
+C118,Enchiladas
+C118,Chole Bhature
+C118,Sweet and Sour Pork
+C118,Rogan Josh
+C119,Burrito
+C119,Pizza Margherita
+C119,Spaghetti Carbonara
+C119,Biryani
+C120,Ramen
+C120,Tiramisu
+C120,Sweet and Sour Pork
+C121,Wonton Soup
+C121,Churros
+C121,Enchiladas
+C122,Udon
+C122,Butter Chicken
+C123,Wonton Soup
+C124,Burrito
+C124,Wonton Soup
+C124,Lasagna
+C125,Tempura
+C125,Biryani
+C125,Wonton Soup
+C126,Mapo Tofu
+C126,Wonton Soup
+C126,Udon
+C127,Mapo Tofu
+C127,Chiles Rellenos
+C127,Fried Rice
+C127,Rogan Josh
+C129,Tempura
+C129,Rogan Josh
+C129,Fried Rice
+C130,Tempura
+C130,Fried Rice
+C130,Miso Soup
+C130,Sushi
+C131,Udon
+C131,Sushi
+C132,Chole Bhature
+C133,Mapo Tofu
+C133,Tiramisu
+C133,Biryani
+C133,Enchiladas
+C134,Sushi
+C134,Kung Pao Chicken
+C134,Miso Soup
+C135,Mapo Tofu
+C135,Spaghetti Carbonara
+C135,Udon
+C136,Mapo Tofu
+C136,Fried Rice
+C137,Kung Pao Chicken
+C137,Rogan Josh
+C137,Tempura
+C137,Gulab Jamun
+C137,Pizza Margherita
+C138,Tiramisu
+C138,Sweet and Sour Pork
+C138,Spaghetti Carbonara
+C138,Wonton Soup
+C139,Wonton Soup
+C139,Chole Bhature
+C139,Churros
+C140,Fried Rice
+C141,Tempura
+C141,Chole Bhature
+C141,Sweet and Sour Pork
+C141,Fried Rice
+C142,Tacos
+C142,Tiramisu
+C143,Burrito
+C143,Sweet and Sour Pork
+C143,Chiles Rellenos
+C143,Spaghetti Carbonara
+C144,Ramen
+C144,Tacos
+C144,Kung Pao Chicken
+C145,Wonton Soup
+C145,Enchiladas
+C145,Tacos
+C146,Tiramisu
+C147,Enchiladas
+C147,Fried Rice
+C147,Rogan Josh
+C148,Churros
+C148,Chole Bhature
+C148,Chiles Rellenos
+C148,Sushi
+C149,Chiles Rellenos
+C150,Rogan Josh
+C150,Chiles Rellenos
+C151,Gulab Jamun
+C151,Lasagna
+C151,Sushi
+C152,Chole Bhature
+C152,Lasagna
+C152,Wonton Soup
+C152,Risotto
+C152,Gulab Jamun
+C153,Sweet and Sour Pork
+C153,Rogan Josh
+C153,Spaghetti Carbonara
+C154,Burrito
+C154,Chole Bhature
+C154,Fried Rice
+C154,Ramen
+C156,Rogan Josh
+C156,Pizza Margherita
+C156,Miso Soup
+C157,Udon
+C157,Kung Pao Chicken
+C157,Pizza Margherita
+C157,Chiles Rellenos
+C158,Pizza Margherita
+C159,Lasagna
+C159,Udon
+C159,Spaghetti Carbonara
+C159,Ramen
+C160,Enchiladas
+C160,Fried Rice
+C161,Lasagna
+C162,Kung Pao Chicken
+C162,Wonton Soup
+C163,Biryani
+C163,Pizza Margherita
+C164,Ramen
+C164,Risotto
+C164,Fried Rice
+C164,Miso Soup
+C164,Burrito
+C165,Gulab Jamun
+C165,Rogan Josh
+C165,Sushi
+C165,Tempura
+C166,Tempura
+C166,Chiles Rellenos
+C166,Sweet and Sour Pork
+C166,Biryani
+C167,Sweet and Sour Pork
+C167,Chole Bhature
+C168,Ramen
+C169,Tempura
+C169,Miso Soup
+C169,Tacos
+C173,Rogan Josh
+C173,Biryani
+C173,Butter Chicken
+C174,Pizza Margherita
+C175,Butter Chicken
+C175,Tempura
+C175,Udon
+C175,Wonton Soup
+C175,Gulab Jamun
+C176,Kung Pao Chicken
+C177,Enchiladas
+C177,Burrito
+C177,Biryani
+C177,Miso Soup
+C178,Chole Bhature
+C178,Tempura
+C178,Udon
+C179,Risotto
+C179,Wonton Soup
+C179,Miso Soup
+C179,Biryani
+C180,Chiles Rellenos
+C181,Chiles Rellenos
+C181,Enchiladas
+C181,Pizza Margherita
+C181,Gulab Jamun
+C181,Tempura
+C182,Lasagna
+C182,Tacos
+C182,Risotto
+C182,Kung Pao Chicken
+C183,Lasagna
+C184,Sweet and Sour Pork
+C184,Butter Chicken
+C184,Spaghetti Carbonara
+C184,Rogan Josh
+C184,Miso Soup
+C185,Gulab Jamun
+C186,Burrito
+C186,Sushi
+C186,Spaghetti Carbonara
+C186,Lasagna
+C187,Udon
+C187,Chiles Rellenos
+C187,Tacos
+C187,Gulab Jamun
+C188,Biryani
+C188,Tacos
+C188,Wonton Soup
+C189,Tacos
+C189,Chiles Rellenos
+C189,Butter Chicken
+C189,Udon
+C190,Pizza Margherita
+C190,Tiramisu
+C190,Fried Rice
+C190,Sweet and Sour Pork
+C191,Burrito
+C192,Wonton Soup
+C192,Kung Pao Chicken
+C192,Tempura
+C192,Butter Chicken
+C192,Biryani
+C193,Fried Rice
+C194,Chole Bhature
+C195,Spaghetti Carbonara
+C196,Spaghetti Carbonara
+C196,Udon
+C196,Butter Chicken
+C196,Biryani
+C197,Udon
+C197,Chiles Rellenos
+C198,Pizza Margherita
+C198,Churros

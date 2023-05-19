@@ -1,0 +1,201 @@
+restaurant_id,restaurant_name,apartment_building,street,city,state,zip_code,contact_no,contact_email,operating_hours
+R1,Robertson Bakery,952,Scott Walk,South Michele,OK,23378,7627084104,dustinmitchell@smith.info,7:00 AM - 02:00 PM
+R2,Patel-Brennan,810,Natalie Dale,Port Kristinefort,TX,95494,1089593890,hernandezmarie@hotmail.com,10:30 AM - 07:30 PM
+R3,Johnson and Levy Brothers,9470,Anna Walks,New Cherylport,CO,80223,5056139222,sarahnicholson@garcia.com,12:00 AM - 06:00 PM
+R4,Matthews Ltd,4764,Andrew Alley,West Steveborough,DE,89181,2000497688,smithharold@henry.com,10:00 AM - 10:00 PM
+R5,Vazquez-Mahoney,4002,Holly Trail,Melindaborough,MS,01418,9929313395,david51@hotmail.com,20:00 AM - 03:00 PM
+R6,Harris Ltd,098,Nichols Crest,Albertview,WV,39418,4010306359,tvelazquez@gmail.com,10:00 AM - 10:00 PM
+R7,Harding Lobsters,6997,Rachel Loop,Sherryport,KY,12770,4016143768,howardmichelle@wells-bush.info,08:00 AM - 10:00 PM
+R8,Smith Robins,21036,Robert Shore,Coxmouth,TN,66119,5132757314,christinamunoz@trevino-wright.com,03:30 AM - 07:00 PM
+R9,Nguyen-Jenkins,169,Elizabeth Roads,Lopezmouth,ND,35977,2361757227,james76@gmail.com,06:30 AM - 04:30 PM
+R10,Wells-Cummings,969,Ian River,Donaldstad,IN,70861,2051177074,stephenbeard@lawrence-flynn.com,24:00 AM - 18:00 PM
+R11,Morgan Italian Nights,60960,Rios Pine,Lopezstad,SC,87889,4019764053,donna36@yahoo.com,00:30 AM - 08:30 PM
+R12,Mcdowell Inc,47734,Deborah Pass,West Steveborough,DE,89181,1123199363,kylie07@hotmail.com,05:30 AM - 05:30 PM
+R13,The Maxican Gill,84879,Samantha Harbor,Vasquezbury,PR,76988,7919757647,jessica51@doyle.net,09:00 AM - 07:00 PM
+R14,La Marias Chicken,91593,Johnny Track,Padillamouth,PR,55900,3225828709,janemathews@hotmail.com,10:00 AM - 10:00 PM
+R15,Gilbert-Lee,472,Graham Forge,Padillafort,CT,06084,4015565788,andreaandrews@gmail.com,03:00 AM - 08:30 PM
+R16,Smith Wings,786,Norman Ridge,Thompsonshire,IL,22817,1805679890,martinezdana@gmail.com,22:00 AM - 00:00 PM
+R17,Arnold and Sons,6287,Eaton Cliffs,Joditown,MT,82483,5011833937,kmills@yahoo.com,02:30 AM - 18:00 PM
+R18,The Hungry Fox,0835,Francis Corner,North Michelleburgh,TN,36064,7781165290,alang@reynolds-nichols.org,01:00 AM - 22:00 PM
+R19,The Spice Route,7583,Jeremy Extension,West Cassandraland,OR,85966,4383021213,zball@hotmail.com,11:30 AM - 17:30 PM
+R20,The Blue Olive,039,Davila Key,Anthonyborough,CO,33017,8373974713,krobinson@hotmail.com,10:00 AM - 10:00 PM
+R21,The Blue Olive,037,Armstrong Land,Edwardsland,PR,94235,4015891894,myersmary@delgado.com,10:00 AM - 10:00 PM
+R22,The Green Plate,306,Cathy Causeway,Thompsonshire,IL,22817,3750125102,zvelazquez@gmail.com,10:00 AM - 10:00 PM
+R23,The Golden Spoon,1042,Cook Path,Thomasshire,AL,95082,1552182575,beth04@rodriguez.com,02:30 AM - 01:00 PM
+R24,The Golden Spoon,5259,Gould Causeway,East Kaitlynside,AL,32648,4783875258,vbeck@pierce.com,10:00 AM - 10:00 PM
+R25,Davis Ltd,4737,Troy Avenue,Lake Markstad,MD,30088,4366702434,gwalker@gonzalez.com,01:00 AM - 14:30 PM
+R26,The Secret Garden Cafe,359,Lisa Row,Port Ryanchester,IN,93029,1415805004,joshua79@yahoo.com,01:00 AM - 03:00 PM
+R27,Lewis-Forbes,89576,Adam Stream,Lewiston,WA,88396,6123914264,utodd@hotmail.com,14:30 AM - 14:00 PM
+R28,The Blueberry Hill,586,Jeffery Station,Nolanton,RI,41282,5224845422,bbrown@hotmail.com,10:00 AM - 10:00 PM
+R29,The Cozy Café,819,Kim Plaza,Parrishberg,PR,44416,1392192251,duncanmelissa@gmail.com,08:00 AM - 12:30 PM
+R30,Berg PLC,60532,Daniel Gardens,Carlahaven,NJ,73453,6019556093,john95@yahoo.com,12:30 AM - 05:00 PM
+R31,Hernandez-Roberts,2163,Jennifer Unions,East Julieport,RI,22625,1519634947,danielflores@yahoo.com,19:00 AM - 17:00 PM
+R32,The Cozy Café,48502,Lowery Rest,Rachelside,LA,61862,1484954219,fvaughn@stewart.org,22:00 AM - 04:00 PM
+R33,Burke LLC,12767,Hayes Viaduct,East Julie,PA,16861,8955278232,ronaldrodriguez@yahoo.com,10:00 AM - 10:00 PM
+R34,Raymond Group,961,Ryan Neck,Lewiston,WA,88396,5117775084,iserrano@yahoo.com,06:30 AM - 11:30 PM
+R35,Chung Group,881,Benjamin Road,Nolanton,RI,41282,7013036473,edwardsbradley@hotmail.com,10:00 AM - 10:00 PM
+R36,Lopez-Le,4145,Christopher Harbor,Montgomerytown,ND,02666,5642608677,julia24@gmail.com,10:00 AM - 10:00 PM
+R37,Simpson-Perkins,94344,Robert Mews,Port David,VI,06088,2725243084,ashlee28@yahoo.com,10:00 AM - 10:00 PM
+R38,Hernandez-Montgomery,637,Lewis Pass,Willisbury,GU,41148,5012509884,dunnrichard@smith-hansen.com,12:00 AM - 15:30 PM
+R39,Sullivan Group,834,Gay Land,Brownside,PR,66384,4744099454,amberweaver@gmail.com,02:00 AM - 14:00 PM
+R40,The Spicy Noodle,788,Saunders Ways,West Alexander,MH,87329,7820011649,ktucker@yahoo.com,10:00 AM - 10:00 PM
+R41,The Green Peas,36283,Contreras Union,Adamshire,CT,82241,3262148238,janice44@kelly-lyons.com,03:00 AM - 23:00 PM
+R42,Ward-Chang,848,Lisa Estate,Adambury,ME,37542,8570027077,mwright@hotmail.com,10:00 AM - 10:00 PM
+R43,Carr-Gonzalez,112,Leonard Pine,Sarahchester,KS,20197,7490836181,comptonelizabeth@adams.com,10:00 AM - 10:00 PM
+R44,Ellis Ltd,528,Harris Villages,North Jose,NV,31399,1311501383,edavis@wilson.com,08:30 AM - 16:00 PM
+R45,The Spicy Noodle,76759,Tanner Garden,West Alexander,MH,87329,2513179724,hernandezrobert@bell-huynh.com,04:00 AM - 17:00 PM
+R46,Ortiz Ltd,398,Morrison Motorway,Adamshire,CT,82241,5016117756,orodriguez@yahoo.com,10:00 AM - 10:00 PM
+R47,Gutierrez Ltd,33603,Eric Drive,Liufurt,CO,08058,5739776584,johnwaters@santiago.com,11:00 AM - 12:30 PM
+R48,Ruiz-Patel,3071,Cortez Throughway,South Heidichester,WV,02302,4011535632,brianabrown@cortez.info,17:00 AM - 05:00 PM
+R49,The Spicy Noodle,3925,Harvey Heights,Stevensville,AL,82347,8506758792,joshua82@cook.org,03:30 AM - 12:00 PM
+R50,Williams-Ryan,45902,Russell Radial,Hamiltonmouth,KY,04030,1970712460,timothyleonard@delgado.biz,01:00 AM - 04:00 PM
+R51,Davis Inc,493,Burton Drives,Turnerland,OR,42985,4728551925,mooremichelle@sanchez.com,10:30 AM - 18:00 PM
+R52,Ward-Romero,586,Brittany Fords,Aprilstad,DC,65115,9886406281,ashlee27@gmail.com,16:30 AM - 11:00 PM
+R53,Cox PLC,84039,Dustin Field,East Joshua,IL,25877,6011369924,scottmarie@hotmail.com,15:30 AM - 08:00 PM
+R54,Udipi Cafe,79130,Brian Brooks,Smithchester,WA,63533,5030575621,sharon46@wilson.com,21:30 AM - 21:00 PM
+R55,Hughes-Manning,200,Amanda Branch,Miguelville,PW,31765,6712156071,xbell@gmail.com,10:00 AM - 05:00 PM
+R56,Smith-Baker,2515,Dawn Brooks,North Sarah,MT,35362,6522656400,aguirremartin@gmail.com,08:30 AM - 13:00 PM
+R57,Wallace-Delgado,997,Rhonda Bridge,East Jacob,WV,10914,5187202994,kmiller@gmail.com,10:00 AM - 10:00 PM
+R58,Chettinadu Kitchen,4686,Ray Lodge,Joshuamouth,DC,03611,4346128656,dakota10@sullivan-perez.com,00:00 AM - 02:30 PM
+R59,Alvarado PLC,7531,Gonzalez Lodge,Lake Tiffanybury,TX,07107,5845380419,juliasmith@yahoo.com,10:00 AM - 10:00 PM
+R60,Mccormick Inc,43999,Avery Squares,North Billy,NE,34260,1482880623,matthew58@smith.net,07:30 AM - 07:30 PM
+R61,Morrow-Best,30050,Clark Islands,New Tammy,NY,06432,7983955214,samantha42@melton.info,11:30 AM - 01:00 PM
+R62,Mccann Inc,078,Bradley Ports,North Benjamin,WI,41067,7389319830,jilljacobs@yahoo.com,03:00 AM - 17:30 PM
+R63,Rogers-Baker,558,Coleman Mountains,West Angela,WI,28421,1619552937,chase99@nunez-watkins.com,00:30 AM - 07:30 PM
+R64,Kathi Roll Corner,67137,Jeremy Center,East Joshua,IL,25877,2801544750,wfreeman@dean.info,10:00 AM - 10:00 PM
+R65,Maldonado Ltd,67442,Hatfield Row,New Edward,NJ,87735,1279767692,hooverkristina@gmail.com,11:00 AM - 24:00 PM
+R66,Pitts LLC,7066,Amy Inlet,Miguelville,PW,31765,1212233257,davidfrazier@gmail.com,10:00 AM - 10:00 PM
+R67,Pind Balluchi,64183,Cathy Shore,New Jamieport,FM,67386,2898854836,gjohnson@hotmail.com,08:00 AM - 09:00 PM
+R68,Jones Group,87255,Andrew Creek,Claybury,OR,53905,4328637535,joshua12@melton-matthews.net,22:00 AM - 10:00 PM
+R69,Collier Group,6949,Kelley Junction,Fieldsland,GA,13475,3196552281,colleenbenitez@allen.com,00:30 AM - 22:00 PM
+R70,Martin-Sanders,807,Carly Drive,West Joshuastad,OK,19136,6369763066,daniellewilliams@hotmail.com,07:00 AM - 11:00 PM
+R71,Keralite Kitchen,361,Sampson Isle,East Christian,RI,39447,5140057067,dhorne@gmail.com,01:00 AM - 07:00 PM
+R72,Walsh-Hart,199,Miller Passage,New Edward,NJ,87735,3019524123,ryansean@rios-stevenson.org,10:00 AM - 10:00 PM
+R73,Malabar Palace,351,Benjamin Port,West Heatherport,KY,60948,7399895538,andrerios@garcia.com,04:30 AM - 03:30 PM
+R74,Mccullough-Cooper,00801,Destiny Port,East Michelleland,AK,69348,8887114267,cathy50@torres.info,10:00 AM - 10:00 PM
+R75,Lion Sweets,853,Mccoy Springs,Tylerborough,IA,66527,9854981501,joshuabrown@hotmail.com,14:00 AM - 21:30 PM
+R76,Andhra Spice,8940,Berry Extensions,East Chelseystad,VI,73534,5837363185,christopher40@yahoo.com,02:00 AM - 02:00 PM
+R77,Chapman PLC,967,Barnes Inlet,Melissaside,TX,35470,9175339587,wileydonald@lewis.com,03:30 AM - 12:30 PM
+R78,West and Sons,764,Amy Courts,Garybury,LA,19640,6015354039,judy92@hotmail.com,10:00 AM - 10:00 PM
+R79,Holmes-Harmon,1216,Duarte Cliff,Cheyennefort,MH,40497,3377512977,spearsangela@wilson.com,06:30 AM - 22:30 PM
+R80,Biryani Paradise,592,Robert Cape,North Michaelbury,MN,99442,2734067253,gracesanchez@lewis.com,10:00 AM - 10:00 PM
+R81,King and Sons,15273,Harris Crossroad,West Darlenemouth,TX,29031,5018931141,merrittbarbara@turner.com,10:00 AM - 10:00 PM
+R82,Rajasthani Thali House,51097,Moon Bridge,Tinafurt,AK,03438,4692861005,juliahodge@yahoo.com,20:30 AM - 22:00 PM
+R83,Clark Inc,916,Daniel Avenue,New Joshua,NH,23755,2258036900,lgarcia@gmail.com,22:30 AM - 16:00 PM
+R84,Marquez Group,4631,Peter Vista,East Renee,OR,52630,1395697232,michellemendoza@harris.biz,06:30 AM - 06:00 PM
+R85,Fox PLC,4645,Theodore Crescent,North Roger,NE,35087,9615328307,xdavis@bean-morgan.com,05:30 AM - 07:30 PM
+R86,Taqueria Los Comales,2264,Allison Forks,New Michelle,DE,98256,7120434465,tonykaufman@huynh.biz,10:00 AM - 10:00 PM
+R87,Owens LLC,635,Salas Path,New Kelseyside,HI,30704,5437312212,ehumphrey@allen-zuniga.info,07:00 AM - 15:30 PM
+R88,Casa de Tamales,04976,Booker Curve,North Jessica,DC,76858,7985115836,morgan76@gmail.com,01:00 AM - 24:00 PM
+R89,El Pollo Loco,6584,Brenda Gardens,Pachecofort,TN,97435,4019076345,suephillips@hotmail.com,10:00 AM - 10:00 PM
+R90,La Tapatia,3225,Smith Summit,New Crystal,SC,09248,4347307910,vbrown@klein.org,06:30 AM - 19:30 PM
+R91,Lopez-Hernandez,98329,Gutierrez Mountain,Garciaport,GU,89410,1555912216,james85@hotmail.com,01:00 AM - 17:00 PM
+R92,Mcneil Inc,814,Bell Turnpike,Nicolebury,DC,62200,8352667379,kristin48@wolfe.biz,06:00 AM - 06:00 PM
+R93,Dunn-Clark,4128,Bell Bridge,Hannahchester,LA,40282,1217093353,lutzcaleb@jones.org,00:30 AM - 03:00 PM
+R94,Huber-Jones,2831,Charles Springs,South Amberton,RI,07943,5913508186,william36@palmer-clark.com,06:30 AM - 16:30 PM
+R95,El Rincon Mexicano,942,Henry Crossroad,West Darlenemouth,TX,29031,1896949907,richardbishop@singleton-swanson.com,10:00 AM - 10:00 PM
+R96,Miller Ltd,1464,Jeffrey Brook,Tinafurt,AK,3438,4962525892,vwilson@howell.com,08:30 AM - 15:00 PM
+R97,La Super-Rica Taqueria,1834,Joyce Parkways,Lake Cindy,MP,45296,4134746782,huntantonio@hotmail.com,11:30 AM - 02:00 PM
+R98,Powers-Lindsey,4408,Megan Drives,Danielville,WA,94740,1731899588,ryangross@gibbs.org,10:00 AM - 12:30 PM
+R99,Mi Tierra Cafe y Panaderia,9775,Larson Camp,Thompsonside,SC,97598,9232116260,randyclark@hawkins.net,10:00 AM - 10:00 PM
+R100,Robinson LLC,07431,Amy Garden,West Nicholasport,WA,42144,4165618052,usullivan@hotmail.com,10:00 AM - 10:00 PM
+R101,Brewer-Bennett,94129,Bruce Estate,Robertberg,CT,71245,4017267802,wevans@hotmail.com,10:00 AM - 10:00 PM
+R102,La Cocina de Consuelo,402,Russell Inlet,Johnburgh,FL,37529,1579195098,denise40@hotmail.com,00:00 AM - 11:30 PM
+R103,La Palapa,33623,Pamela Trail,West Jeffrey,OR,20594,4448585023,hthomas@gmail.com,09:00 AM - 24:00 PM
+R104,Jones-Cobb,3443,Tyler Ford,West Karlaside,LA,89159,4015891930,deverett@davis-bell.com,14:00 AM - 16:00 PM
+R105,Los Tres Amigos,586,Jason Walks,New Thomas,AR,63664,4011167147,lucastina@lopez.com,11:00 AM - 02:30 PM
+R106,La Carreta,243,Barbara Row,West Tracey,SD,14947,5808845824,arichards@gmail.com,21:00 AM - 08:30 PM
+R107,Reyes PLC,26109,Samuel Forks,Brucechester,AZ,90497,5364133825,mrivas@yahoo.com,09:30 AM - 19:00 PM
+R108,Fletcher-King,351,Foster Coves,West Melissahaven,ID,14895,6726801900,hrobles@yahoo.com,10:00 AM - 10:00 PM
+R109,Fisher LLC,2908,Flores Burgs,Martinborough,KS,61529,7551578910,annewatkins@yahoo.com,10:00 AM - 12:30 PM
+R110,Moss Ltd,71995,Larson Islands,Maryberg,ID,56039,5705450326,qsharp@gmail.com,06:00 AM - 23:00 PM
+R111,Diaz-Rodriguez,82006,Troy Divide,New Ryanview,NJ,68562,4894530461,xferguson@evans-taylor.com,08:00 AM - 16:30 PM
+R112,Robbins-Miller,5390,Robyn Square,New Thomas,AR,63664,8197815303,michelle50@hill.com,12:00 PM - 110:00 PM
+R113,Webb-Smith,9167,Jonathan Cliffs,West Tracey,SD,14947,4012736517,chavezmichael@hotmail.com,10:00 AM - 10:00 PM
+R114,Smith Inc,7215,Carol Branch,Davidfort,TN,29403,7062984885,stephaniemccann@yahoo.com,10:00 AM - 10:00 PM
+R115,La Hacienda Ranch,5656,Cook Walks,Davidton,WA,23691,4582005086,xperkins@yahoo.com,10:00 AM - 10:00 PM
+R116,Young Inc,93396,Samantha Plaza,Reynoldsmouth,ME,96336,8861546936,denise38@hotmail.com,17:00 AM - 11:30 PM
+R117,Campbell LLC,308,Andrew Path,Stephanieville,AR,93185,4018099187,mollymorales@green-gibson.org,10:00 AM - 10:00 PM
+R118,Taqueria El Antojito,77663,Sarah Corner,Smithfort,WI,79667,1380373634,nfisher@miller.com,10:00 AM - 10:00 PM
+R119,Bates Ltd,079,Brenda Islands,Lake Darlenetown,AZ,38865,1481899638,fgraham@garcia.net,23:00 AM - 07:30 PM
+R120,El Charro Cafe,3704,Dixon Rest,East Jenniferville,NV,05082,4017740301,martinderek@yahoo.com,01:30 AM - 19:30 PM
+R121,La Azteca Tortilleria,259,Krause Crossroad,West Jeffrey,OR,20594,6576425553,robertrobertson@lopez.com,09:00 AM - 23:30 PM
+R122,Dakshin Curry House,369,Adams Views,West Karlaside,LA,89159,1068612781,jimmitchell@gmail.com,10:00 AM - 10:00 PM
+R123,Collins-Fernandez,7884,Katrina View,South Shannonshire,AR,56756,1118584858,lgarcia@owens.info,09:00 AM - 09:30 PM
+R124,Bong Appetit,113,Carmen Orchard,Anthonybury,NM,23996,1205679634,nicholas53@yahoo.com,03:30 AM - 03:30 PM
+R125,Pindi Chole Wala,34102,Breanna Rest,Kellybury,LA,14699,1853681853,martin45@ryan.biz,10:00 AM - 10:00 PM
+R126,Johnston-Sullivan,7288,Gary Springs,Kimmouth,WV,78554,1431158163,creeves@patterson-marquez.com,10:00 AM - 22:30 PM
+R127,Peters-Miller,33084,Bennett Parkways,Duncanmouth,AR,29689,2474886961,ejohnson@hotmail.com,10:00 AM - 10:00 PM
+R128,Jones-Owens,53856,Morales Isle,Jenniferview,KY,91446,3857474716,shepardwhitney@barker.com,07:00 AM - 19:00 PM
+R129,Anderson Group,9710,Lowery Path,West Bradleytown,PR,85735,9465670909,leonsarah@stanley-edwards.org,08:00 AM - 12:00 PM
+R130,Dosa Delight,0936,Woods Manors,West Jessica,ND,15467,4783040281,samuel02@young-farmer.com,06:00 AM - 17:00 PM
+R131,Salazar-Turner,68946,Ramirez Fields,North Jason,SD,78287,1030214054,kyle14@payne.com,08:30 AM - 08:30 PM
+R132,Davis and Sons,64498,Hodges Spring,Codymouth,AR,99244,1359741651,amyriley@yahoo.com,10:00 AM - 10:00 PM
+R133,Pham LLC,75527,Lopez Islands,South Jeffrey,GA,80526,8734941704,jacobacosta@yahoo.com,09:00 AM - 24:00 PM
+R134,Beck-Beck,720,Miller Vista,South Veronica,VA,90615,1948609918,mitchelldaniel@gmail.com,07:30 AM - 06:00 PM
+R135,Kolkata Kathi Roll,278,Shannon Loaf,Nancystad,AS,24792,8678669405,zlamb@alvarado.net,10:00 AM - 10:00 PM
+R136,Amritsari Kulcha Corner,528,Richardson Drives,North Jason,SD,78287,9012900050,woodkristen@hotmail.com,10:30 AM - 17:30 PM
+R137,Richardson-Young,65732,Horn Squares,Codymouth,AR,99244,9523279296,annealvarez@clark.net,01:00 AM - 01:00 PM
+R138,Brooks Group,0380,Garcia Centers,Humphreychester,PW,88799,3307481621,waltonjessica@brown.com,12:30 AM - 23:30 PM
+R139,Wells Group,890,Perry Pass,Cynthiamouth,TX,25532,4011743892,victoria89@gmail.com,06:00 AM - 02:30 PM
+R140,Henderson and Sons,978,Burns Trafficway,New Annabury,NJ,07993,8304161654,hillmary@gmail.com,10:00 AM - 10:00 PM
+R141,Rivera Group,5322,Jeremy Wells,Williamsfurt,OR,03986,4174479691,jason99@yahoo.com,12:00 AM - 18:30 PM
+R142,Annapurna Bhojanalaya,8528,James Meadow,East Miguel,RI,80833,3793045154,amyharris@gmail.com,11:00 AM - 16:30 PM
+R143,Brown-Jackson,9324,Ellis Corners,West Tammyland,SC,55841,1127435689,twarner@hotmail.com,11:30 AM - 07:00 PM
+R144,El Triunfo,1914,Rodriguez Cape,North Josephland,GU,54556,7914148640,kevinortiz@smith.info,18:00 AM - 03:00 PM
+R145,La Poblanita,9586,Gonzalez Cove,West Cindy,NM,73305,1292789093,martinlarry@grant-bryant.com,09:00 AM - 05:00 PM
+R146,Robles-Morton,925,Curtis Cliff,North Ninachester,MA,72404,3550492184,davisjennifer@yahoo.com,10:00 AM - 10:00 PM
+R147,El Cholo,856,Reyes Divide,North Deborah,CA,14556,1580656878,julie88@malone-moore.com,09:30 AM - 03:30 PM
+R148,El Farolito,68882,Nielsen Drive,New James,OK,51106,6495722372,goldenryan@hotmail.com,10:00 AM - 02:00 PM
+R149,Martin-Wilson,86684,Alexander Harbor,South Brandonshire,GU,85730,7402531982,michael12@hall-atkins.com,02:30 AM - 21:00 PM
+R150,Powell-Wood,7485,Cherry Mission,Davidton,SD,61758,0250067768,joelsmall@hotmail.com,01:00 AM - 14:30 PM
+R151,Mariscos Ensenada,8675,Wang Glen,North Ninachester,MA,72404,6893132647,agates@ortega.biz,07:30 AM - 18:00 PM
+R152,Rich Group,9532,Davis Meadow,North Deborah,CA,14556,4013015798,ulogan@yahoo.com,12:00 AM - 21:30 PM
+R153,Oaxaca Taqueria,417,Jamie Club,West Jeffrey,HI,69967,4019142509,hammondsusan@spencer.org,10:00 AM - 10:00 PM
+R154,Mcneil-Lawson,8910,Julie Glen,New Brianna,NY,99681,4010681426,whitneygarcia@anderson.org,01:30 AM - 02:30 PM
+R155,Bush-White,453,Gonzales River,North Jason,SD,78287,7603899971,lisaharris@hotmail.com,04:30 AM - 23:00 PM
+R156,Harris PLC,9498,Matthews Park,Codymouth,AR,99244,2213065042,lhale@lewis.com,10:00 AM - 10:00 PM
+R157,Casa Vega,3494,Owens Station,South Jeffrey,GA,80526,7172920470,armstrongmichael@gmail.com,10:00 AM - 10:00 PM
+R158,Brown-Mejia,95959,Alison Canyon,Garciahaven,MN,01675,1809117360,gpark@martinez-crane.com,08:00 AM - 05:00 PM
+R159,Burger King,9956,Michael Unions,Stacychester,UT,98425,6153086328,tolson@perkins.com,03:30 AM - 20:00 PM
+R160,Sims-Walker,93405,Hubbard Center,Kerrychester,OK,05658,2416921552,bethanytaylor@moore.org,10:30 AM - 23:00 PM
+R161,El Guapo,050,Carrillo Plains,Keithshire,VI,66398,7293060722,sguerra@bryan.com,06:00 AM - 02:30 PM
+R162,Williams Group,116,Jennifer Union,New Samanthaport,AR,05272,1265849582,tiffanyowens@murray.org,10:00 AM - 10:00 PM
+R163,Gutierrez-Walters,333,Kevin Underpass,Kimberlyville,NJ,62946,4736841108,williamshelton@yahoo.com,03:30 AM - 11:00 PM
+R164,The Austin Bites,700,Pierce Mountains,Carlosbury,OK,49078,4581410298,shelbygardner@lopez-white.com,02:30 AM - 00:30 PM
+R165,El Guapo,443,Ross Meadows,Garciaville,AZ,48621,1648834370,kennethfloyd@hotmail.com,11:00 AM - 23:30 PM
+R166,Smith-Munoz,6721,Johnson Mall,Port Patricia,IA,29580,8248423761,jordan81@gmail.com,20:30 AM - 04:00 PM
+R167,Randall Ltd,710,April Plains,Natashaburgh,OH,66501,4884956481,muellerfrederick@yahoo.com,01:30 AM - 10:30 PM
+R168,Grant-Harvey,952,Long Shoals,Peterland,NC,56934,8707591706,jason02@hotmail.com,11:00 AM - 23:30 PM
+R169,Hobbs Ltd,925,John Key,Alexchester,MO,60771,2621289559,bradshawmichael@yahoo.com,07:30 AM - 06:00 PM
+R170,Rivas-James,0194,Samuel Ridges,Scottview,OH,50430,8933319632,amygreen@hotmail.com,15:00 AM - 09:00 PM
+R171,Urban Tadaka,71622,Robert Mount,Taylorton,WY,47076,4014885236,laura85@hotmail.com,10:00 AM - 10:00 PM
+R172,Vasquez-Leonard,645,Kevin Manors,Harrisbury,FL,14530,4017992781,steven28@bailey.info,05:00 AM - 10:30 PM
+R173,Chicken Express,8302,Amanda Path,North Amymouth,MT,11277,9844283454,danielpatterson@buck.info,21:30 AM - 20:00 PM
+R174,Mole Poblano Cafe,941,Webster Lane,Keithshire,VI,66398,1509076444,brooksrobert@kelly-lucas.net,05:00 AM - 02:00 PM
+R175,Taco Bell,6033,Vincent Roads,New Samanthaport,AR,5272,1714047121,whitneymartinez@moreno.com,06:30 AM - 02:00 PM
+R176,Scott-Yang,13469,Keller Row,Kimberlyville,NJ,62946,5736273124,xturner@gmail.com,09:00 AM - 05:00 PM
+R177,Bauer-Moore,9474,Holly Mission,East David,PR,56870,7757069463,linda78@bailey.net,10:00 AM - 10:00 PM
+R178,Scott-Johnson,25039,Jorge Burgs,Brittanyberg,NE,49993,4017314174,tara82@perez-casey.org,11:30 AM - 16:30 PM
+R179,Hunter Grills,76447,Jefferson Lock,Villafort,MD,33027,2147682876,kgriffin@andrews.org,18:00 AM - 20:00 PM
+R180,Weaver-Webb,252,Daniel Walk,Kaylamouth,SD,65330,4560046679,penningtonricardo@gmail.com,10:30 AM - 06:00 PM
+R181,Knight PLC,6209,Lester Loop,Makaylafort,MO,26125,4738162470,bperez@gmail.com,14:30 AM - 08:30 PM
+R182,Smith-Juarez,03925,Laurie Mill,Crystalview,NH,89838,1458523234,robert82@garcia.com,09:30 AM - 13:30 PM
+R183,Hernandez Waffles,69801,Kenneth Extension,South Dustin,UT,46430,2752301543,kristenwilliams@foster.com,00:00 AM - 17:00 PM
+R184,Adams-Kennedy,73776,James Mountain,Villafort,MD,33027,6183562173,ihull@smith.com,21:30 AM - 21:30 PM
+R185,Knapp-Taylor,877,Eric Bridge,Kaylamouth,SD,65330,4552551662,marshsteven@turner-kim.info,10:00 AM - 10:00 PM
+R186,Rice Inc,6626,Anthony Avenue,Makaylafort,MO,26125,4018015146,samantha45@burke-wilson.com,11:30 AM - 09:30 PM
+R187,Gonzalez and Sons,69086,Vang Camp,Christychester,IN,33444,3477280657,cindy37@gmail.com,10:00 AM - 10:00 PM
+R188,The New York Eats,701,Angela Neck,Port Michelleborough,AS,89649,1731013687,meaton@hotmail.com,07:00 AM - 24:00 PM
+R189,Mcdowell-Nguyen,29570,Leslie Shores,Victoriaton,GU,46087,1857810825,richarddeanna@may.com,09:30 AM - 11:00 PM
+R190,Martin-Moore,43425,Brenda Forge,South Matthew,AZ,11074,3550943007,cynthiaodom@gmail.com,10:00 AM - 17:00 PM
+R191,Holmes and Sons,801,Jonathan Mountains,Teresaburgh,NV,3536,8365296557,mdaniel@hotmail.com,04:00 AM - 08:00 PM
+R192,Smith-Curtis,63580,Davila Groves,West Zacharyview,WY,27169,1726255289,emcclure@gmail.com,06:30 AM - 01:00 PM
+R193,Turner-Pratt,31602,Pamela Estates,North Jennifer,OR,37275,5458995545,zmartinez@yahoo.com,09:00 AM - 09:00 PM
+R194,Park-Duran,9022,Frazier Crossing,New Brent,KY,88649,9887153420,eric98@hotmail.com,10:00 AM - 10:00 PM
+R195,Greer Ltd,37651,Alexandria Parkways,Victoriaton,GU,46087,4750526674,beckermonique@hotmail.com,10:30 AM - 09:30 PM
+R196,Price-Nielsen,63104,Michael Valley,South Matthew,AZ,11074,1038505844,mezadenise@castaneda.com,06:00 AM - 16:00 PM
+R197,Burton Ltd,07545,Leon Crest,Teresaburgh,NV,03536,1508910211,mckeeallison@little.net,10:00 AM - 10:00 PM
+R198,Wilkerson LLC,017,Megan Valley,West Sean,IA,73057,1131010563,matthew11@gmail.com,18:00 AM - 12:00 PM
+R199,Havemore,3134,Francis Parks,East Blake,PR,38014,2974596093,rebeccataylor@yahoo.com,04:30 AM - 17:30 PM
+R200,The Big Texas,5809,Shepherd Tunnel,Jessicahaven,LA,17294,5036488299,williamsmichelle@patterson.com,10:00 AM - 13:30 PM

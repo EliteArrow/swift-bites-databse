@@ -1,0 +1,1001 @@
+item_id,restaurant_id,item_name,cuisine_type,price,calories,item_type,preparation_time
+I1,R84,Chiles Rellenos,Mexican,10.04,573,Dessert,50
+I2,R176,Biryani,Indian,6.78,113,Main Course,73
+I3,R185,Tempura,Japanese,37.39,585,Beverage,26
+I4,R17,Enchiladas,Mexican,14.88,211,Starter,43
+I5,R90,Chiles Rellenos,Mexican,9.86,597,Beverage,57
+I6,R150,Butter Chicken,Indian,12.83,840,Starter,72
+I7,R108,Fried Rice,Chinese,5.06,587,Main Course,21
+I8,R155,Pizza Margherita,Italian,8.1,229,Beverage,48
+I9,R33,Rogan Josh,Indian,37.49,490,Main Course,118
+I10,R56,Ramen,Japanese,46.17,785,Main Course,84
+I11,R105,Butter Chicken,Indian,39.61,694,Starter,82
+I12,R92,Enchiladas,Mexican,16.75,198,Starter,104
+I13,R116,Miso Soup,Japanese,43.5,360,Beverage,42
+I14,R93,Churros,Mexican,35.1,712,Dessert,95
+I15,R36,Sushi,Japanese,39.56,584,Beverage,84
+I16,R7,Pizza Margherita,Italian,32.69,969,Dessert,102
+I17,R187,Sweet and Sour Pork,Chinese,31.31,778,Main Course,27
+I18,R129,Miso Soup,Japanese,37.33,460,Dessert,98
+I19,R102,Lasagna,Italian,5.47,600,Beverage,108
+I20,R158,Kung Pao Chicken,Chinese,21.15,436,Beverage,91
+I21,R174,Mapo Tofu,Chinese,6.38,724,Main Course,39
+I22,R8,Chole Bhature,Indian,14.74,124,Main Course,96
+I23,R179,Risotto,Italian,43.01,274,Beverage,60
+I24,R53,Gulab Jamun,Indian,18.16,946,Dessert,24
+I25,R1,Wonton Soup,Chinese,28.36,123,Starter,13
+I26,R20,Tempura,Japanese,18.64,595,Dessert,104
+I27,R135,Pizza Margherita,Italian,24.35,911,Beverage,84
+I28,R131,Churros,Mexican,5.86,245,Starter,28
+I29,R177,Ramen,Japanese,21.07,664,Starter,8
+I30,R4,Fried Rice,Chinese,10.41,894,Beverage,103
+I31,R59,Lasagna,Italian,12.19,443,Beverage,16
+I32,R38,Sweet and Sour Pork,Chinese,6.06,198,Beverage,29
+I33,R129,Mapo Tofu,Chinese,22.26,814,Main Course,90
+I34,R177,Tacos,Mexican,7.42,697,Main Course,28
+I35,R72,Fried Rice,Chinese,43.7,437,Dessert,41
+I36,R74,Ramen,Japanese,20.6,773,Dessert,69
+I37,R198,Rogan Josh,Indian,42.96,199,Dessert,18
+I38,R188,Wonton Soup,Chinese,26.4,230,Dessert,106
+I39,R114,Pizza Margherita,Italian,24.28,613,Main Course,77
+I40,R44,Wonton Soup,Chinese,47.98,726,Main Course,111
+I41,R83,Spaghetti Carbonara,Italian,45.01,274,Dessert,26
+I42,R56,Fried Rice,Chinese,24.71,464,Main Course,39
+I43,R67,Mapo Tofu,Chinese,33.53,555,Main Course,80
+I44,R179,Sweet and Sour Pork,Chinese,22.63,397,Main Course,72
+I45,R44,Biryani,Indian,41.61,830,Beverage,76
+I46,R67,Wonton Soup,Chinese,33.41,873,Beverage,10
+I47,R65,Chole Bhature,Indian,39.4,335,Dessert,118
+I48,R32,Chole Bhature,Indian,13.97,404,Dessert,27
+I49,R29,Spaghetti Carbonara,Italian,23.06,765,Dessert,68
+I50,R49,Rogan Josh,Indian,49.83,928,Dessert,39
+I51,R137,Gulab Jamun,Indian,6.61,280,Dessert,18
+I52,R14,Sushi,Japanese,5.17,359,Starter,37
+I53,R28,Udon,Japanese,27.54,905,Dessert,38
+I54,R57,Tacos,Mexican,38.41,725,Starter,102
+I55,R105,Burrito,Mexican,6.69,947,Beverage,8
+I56,R106,Miso Soup,Japanese,46.28,403,Main Course,111
+I57,R86,Spaghetti Carbonara,Italian,32.54,224,Beverage,118
+I58,R92,Burrito,Mexican,33.41,585,Main Course,35
+I59,R1,Gulab Jamun,Indian,10.43,497,Dessert,64
+I60,R75,Chiles Rellenos,Mexican,5.6,532,Beverage,54
+I61,R105,Miso Soup,Japanese,15.61,542,Dessert,55
+I62,R29,Biryani,Indian,17.63,472,Beverage,75
+I63,R74,Mapo Tofu,Chinese,39.92,382,Dessert,45
+I64,R94,Udon,Japanese,19.85,839,Beverage,5
+I65,R186,Fried Rice,Chinese,37.22,439,Main Course,42
+I66,R9,Sushi,Japanese,37.14,780,Main Course,105
+I67,R195,Biryani,Indian,40.66,494,Dessert,120
+I68,R15,Spaghetti Carbonara,Italian,28.84,452,Beverage,59
+I69,R192,Rogan Josh,Indian,47.95,198,Dessert,70
+I70,R90,Sweet and Sour Pork,Chinese,13.04,483,Dessert,77
+I71,R50,Fried Rice,Chinese,12.3,475,Starter,76
+I72,R100,Tacos,Mexican,41.48,310,Beverage,40
+I73,R91,Tiramisu,Italian,29.82,846,Starter,104
+I74,R184,Miso Soup,Japanese,20.0,611,Dessert,108
+I75,R149,Miso Soup,Japanese,26.38,587,Main Course,64
+I76,R51,Burrito,Mexican,32.33,283,Beverage,117
+I77,R161,Tacos,Mexican,48.77,481,Beverage,101
+I78,R14,Tacos,Mexican,17.41,687,Dessert,81
+I79,R130,Rogan Josh,Indian,42.3,977,Main Course,68
+I80,R125,Risotto,Italian,42.86,343,Main Course,16
+I81,R165,Chole Bhature,Indian,44.93,317,Dessert,49
+I82,R167,Chiles Rellenos,Mexican,14.83,630,Main Course,95
+I83,R167,Wonton Soup,Chinese,23.45,779,Starter,8
+I84,R27,Miso Soup,Japanese,47.82,713,Main Course,63
+I85,R59,Gulab Jamun,Indian,35.51,208,Dessert,54
+I86,R1,Tempura,Japanese,26.18,534,Dessert,90
+I87,R27,Fried Rice,Chinese,7.91,926,Starter,105
+I88,R83,Kung Pao Chicken,Chinese,19.01,849,Dessert,43
+I89,R185,Kung Pao Chicken,Chinese,41.81,200,Dessert,19
+I90,R61,Risotto,Italian,29.57,236,Main Course,91
+I91,R38,Tempura,Japanese,49.59,719,Beverage,56
+I92,R169,Fried Rice,Chinese,17.1,440,Starter,79
+I93,R194,Tiramisu,Italian,48.7,795,Main Course,8
+I94,R18,Churros,Mexican,47.56,543,Beverage,44
+I95,R81,Fried Rice,Chinese,42.61,884,Beverage,94
+I96,R197,Spaghetti Carbonara,Italian,19.93,976,Starter,76
+I97,R200,Tempura,Japanese,44.74,509,Starter,12
+I98,R199,Pizza Margherita,Italian,40.58,462,Main Course,49
+I99,R143,Tempura,Japanese,36.77,107,Starter,106
+I100,R16,Miso Soup,Japanese,41.3,677,Dessert,39
+I101,R192,Chiles Rellenos,Mexican,10.0,626,Starter,57
+I102,R103,Churros,Mexican,13.75,286,Main Course,7
+I103,R126,Enchiladas,Mexican,47.63,255,Starter,20
+I104,R86,Wonton Soup,Chinese,49.11,701,Main Course,82
+I105,R63,Enchiladas,Mexican,16.34,746,Starter,67
+I106,R47,Tiramisu,Italian,33.86,510,Main Course,72
+I107,R47,Gulab Jamun,Indian,11.09,977,Dessert,91
+I108,R117,Wonton Soup,Chinese,47.22,644,Starter,120
+I109,R96,Fried Rice,Chinese,9.01,222,Starter,91
+I110,R32,Chiles Rellenos,Mexican,12.42,815,Beverage,102
+I111,R5,Tacos,Mexican,17.71,793,Dessert,97
+I112,R20,Burrito,Mexican,40.89,917,Beverage,70
+I113,R152,Rogan Josh,Indian,15.85,575,Starter,34
+I114,R9,Risotto,Italian,43.54,715,Dessert,34
+I115,R16,Wonton Soup,Chinese,37.79,184,Beverage,88
+I116,R133,Wonton Soup,Chinese,12.44,259,Beverage,54
+I117,R43,Burrito,Mexican,21.91,321,Dessert,80
+I118,R114,Spaghetti Carbonara,Italian,8.63,245,Main Course,59
+I119,R174,Biryani,Indian,48.83,899,Starter,28
+I120,R63,Enchiladas,Mexican,43.93,863,Main Course,92
+I121,R89,Wonton Soup,Chinese,10.48,996,Main Course,7
+I122,R151,Gulab Jamun,Indian,34.27,712,Starter,70
+I123,R159,Chiles Rellenos,Mexican,37.78,938,Starter,61
+I124,R87,Gulab Jamun,Indian,18.85,387,Main Course,78
+I125,R184,Spaghetti Carbonara,Italian,19.95,385,Main Course,73
+I126,R75,Sweet and Sour Pork,Chinese,28.58,172,Starter,94
+I127,R80,Tiramisu,Italian,38.66,653,Beverage,80
+I128,R75,Butter Chicken,Indian,16.57,152,Dessert,99
+I129,R85,Mapo Tofu,Chinese,33.04,340,Main Course,65
+I130,R39,Pizza Margherita,Italian,25.58,558,Starter,119
+I131,R181,Lasagna,Italian,22.3,208,Main Course,85
+I132,R28,Enchiladas,Mexican,15.3,539,Main Course,97
+I133,R92,Sushi,Japanese,22.68,678,Dessert,45
+I134,R27,Tacos,Mexican,36.4,854,Beverage,64
+I135,R121,Risotto,Italian,22.54,731,Beverage,6
+I136,R200,Wonton Soup,Chinese,15.24,840,Starter,35
+I137,R77,Burrito,Mexican,26.43,746,Dessert,66
+I138,R31,Rogan Josh,Indian,38.84,718,Starter,89
+I139,R78,Kung Pao Chicken,Chinese,14.61,182,Starter,95
+I140,R135,Churros,Mexican,7.19,888,Main Course,42
+I141,R105,Rogan Josh,Indian,12.4,794,Main Course,23
+I142,R185,Kung Pao Chicken,Chinese,12.05,674,Starter,89
+I143,R153,Churros,Mexican,29.83,119,Beverage,114
+I144,R190,Enchiladas,Mexican,29.13,591,Beverage,25
+I145,R79,Sweet and Sour Pork,Chinese,12.51,572,Main Course,20
+I146,R94,Miso Soup,Japanese,18.62,295,Beverage,65
+I147,R1,Pizza Margherita,Italian,26.03,442,Starter,67
+I148,R144,Lasagna,Italian,33.0,230,Dessert,25
+I149,R83,Sushi,Japanese,33.16,777,Starter,108
+I150,R120,Fried Rice,Chinese,13.03,609,Dessert,75
+I151,R36,Mapo Tofu,Chinese,34.14,947,Starter,97
+I152,R90,Tacos,Mexican,32.35,857,Starter,20
+I153,R11,Gulab Jamun,Indian,37.14,400,Beverage,32
+I154,R96,Wonton Soup,Chinese,43.83,553,Beverage,74
+I155,R63,Chole Bhature,Indian,11.7,228,Main Course,83
+I156,R19,Tempura,Japanese,29.43,742,Starter,40
+I157,R77,Pizza Margherita,Italian,47.73,664,Dessert,114
+I158,R191,Enchiladas,Mexican,13.57,217,Dessert,120
+I159,R53,Risotto,Italian,31.07,405,Beverage,42
+I160,R167,Mapo Tofu,Chinese,7.45,525,Dessert,52
+I161,R119,Sushi,Japanese,49.8,346,Starter,23
+I162,R28,Chiles Rellenos,Mexican,20.68,384,Beverage,10
+I163,R100,Tempura,Japanese,22.09,405,Dessert,37
+I164,R98,Burrito,Mexican,33.63,266,Starter,57
+I165,R87,Risotto,Italian,24.17,900,Dessert,72
+I166,R119,Chiles Rellenos,Mexican,6.92,393,Main Course,75
+I167,R110,Gulab Jamun,Indian,39.19,121,Main Course,91
+I168,R97,Ramen,Japanese,28.5,479,Main Course,29
+I169,R199,Sushi,Japanese,42.17,119,Dessert,87
+I170,R59,Wonton Soup,Chinese,46.93,941,Main Course,98
+I171,R17,Tiramisu,Italian,40.44,321,Dessert,73
+I172,R15,Chiles Rellenos,Mexican,25.29,754,Beverage,18
+I173,R194,Rogan Josh,Indian,48.96,634,Main Course,45
+I174,R75,Lasagna,Italian,29.49,756,Starter,106
+I175,R184,Wonton Soup,Chinese,19.14,342,Beverage,19
+I176,R114,Chiles Rellenos,Mexican,5.5,464,Dessert,95
+I177,R9,Rogan Josh,Indian,13.05,101,Beverage,49
+I178,R124,Lasagna,Italian,37.64,340,Main Course,90
+I179,R7,Tempura,Japanese,29.59,305,Dessert,28
+I180,R107,Spaghetti Carbonara,Italian,19.45,853,Main Course,82
+I181,R73,Butter Chicken,Indian,11.97,996,Starter,82
+I182,R160,Tacos,Mexican,43.49,588,Beverage,78
+I183,R200,Risotto,Italian,19.75,447,Dessert,109
+I184,R92,Butter Chicken,Indian,20.17,369,Main Course,51
+I185,R142,Chiles Rellenos,Mexican,12.98,160,Starter,42
+I186,R121,Butter Chicken,Indian,6.57,922,Main Course,90
+I187,R161,Miso Soup,Japanese,18.24,665,Beverage,57
+I188,R66,Risotto,Italian,23.84,217,Dessert,95
+I189,R182,Sushi,Japanese,15.56,116,Starter,31
+I190,R99,Wonton Soup,Chinese,19.32,562,Dessert,65
+I191,R183,Gulab Jamun,Indian,46.74,376,Starter,54
+I192,R103,Rogan Josh,Indian,10.6,187,Dessert,69
+I193,R145,Burrito,Mexican,46.23,687,Beverage,74
+I194,R113,Chiles Rellenos,Mexican,45.76,348,Dessert,46
+I195,R97,Wonton Soup,Chinese,14.98,860,Beverage,61
+I196,R135,Miso Soup,Japanese,47.66,155,Dessert,58
+I197,R111,Chiles Rellenos,Mexican,41.25,736,Dessert,71
+I198,R142,Miso Soup,Japanese,6.9,688,Beverage,20
+I199,R190,Sweet and Sour Pork,Chinese,32.59,563,Main Course,49
+I200,R54,Rogan Josh,Indian,39.4,906,Beverage,101
+I201,R6,Udon,Japanese,19.38,863,Beverage,20
+I202,R199,Tempura,Japanese,17.45,862,Starter,29
+I203,R71,Butter Chicken,Indian,7.82,890,Starter,7
+I204,R89,Tempura,Japanese,14.56,649,Starter,47
+I205,R2,Tacos,Mexican,32.12,121,Main Course,72
+I206,R80,Tacos,Mexican,27.77,498,Dessert,33
+I207,R139,Gulab Jamun,Indian,9.01,888,Starter,53
+I208,R157,Chole Bhature,Indian,45.54,541,Beverage,26
+I209,R4,Tempura,Japanese,40.72,138,Beverage,57
+I210,R89,Risotto,Italian,23.69,882,Starter,99
+I211,R19,Udon,Japanese,21.97,444,Main Course,9
+I212,R102,Kung Pao Chicken,Chinese,27.56,272,Main Course,120
+I213,R62,Udon,Japanese,12.68,720,Beverage,77
+I214,R142,Tiramisu,Italian,30.62,683,Starter,103
+I215,R30,Burrito,Mexican,8.83,492,Dessert,63
+I216,R148,Mapo Tofu,Chinese,35.55,515,Starter,111
+I217,R14,Risotto,Italian,35.4,907,Main Course,55
+I218,R12,Churros,Mexican,20.59,283,Main Course,22
+I219,R186,Gulab Jamun,Indian,44.54,294,Dessert,83
+I220,R149,Chiles Rellenos,Mexican,17.92,164,Main Course,116
+I221,R16,Gulab Jamun,Indian,5.31,379,Starter,87
+I222,R93,Gulab Jamun,Indian,43.51,337,Starter,100
+I223,R46,Butter Chicken,Indian,33.99,775,Dessert,19
+I224,R64,Sushi,Japanese,34.11,490,Starter,119
+I225,R1,Chole Bhature,Indian,17.07,298,Beverage,108
+I226,R77,Rogan Josh,Indian,21.63,592,Main Course,45
+I227,R131,Chiles Rellenos,Mexican,35.4,562,Starter,6
+I228,R160,Tempura,Japanese,40.37,372,Beverage,90
+I229,R101,Kung Pao Chicken,Chinese,37.96,705,Beverage,20
+I230,R159,Tacos,Mexican,35.44,138,Starter,107
+I231,R52,Udon,Japanese,16.76,142,Dessert,42
+I232,R153,Sushi,Japanese,23.73,779,Starter,117
+I233,R28,Sweet and Sour Pork,Chinese,22.21,495,Dessert,25
+I234,R129,Tacos,Mexican,25.14,670,Beverage,20
+I235,R188,Chiles Rellenos,Mexican,21.48,511,Starter,15
+I236,R130,Chiles Rellenos,Mexican,21.23,972,Starter,43
+I237,R149,Sushi,Japanese,31.64,710,Beverage,113
+I238,R175,Mapo Tofu,Chinese,47.16,663,Main Course,39
+I239,R188,Butter Chicken,Indian,35.81,270,Dessert,117
+I240,R40,Sweet and Sour Pork,Chinese,47.91,131,Main Course,5
+I241,R126,Udon,Japanese,18.79,357,Starter,22
+I242,R39,Chole Bhature,Indian,32.22,561,Starter,24
+I243,R38,Udon,Japanese,20.33,469,Beverage,15
+I244,R117,Udon,Japanese,38.69,118,Dessert,106
+I245,R168,Tacos,Mexican,7.65,662,Starter,24
+I246,R197,Ramen,Japanese,46.63,732,Starter,105
+I247,R131,Udon,Japanese,42.77,594,Beverage,90
+I248,R76,Spaghetti Carbonara,Italian,48.07,336,Main Course,92
+I249,R32,Gulab Jamun,Indian,24.71,631,Dessert,30
+I250,R86,Chole Bhature,Indian,31.69,243,Dessert,15
+I251,R54,Enchiladas,Mexican,11.03,925,Beverage,23
+I252,R114,Pizza Margherita,Italian,28.52,498,Main Course,12
+I253,R181,Pizza Margherita,Italian,35.6,912,Dessert,21
+I254,R20,Tacos,Mexican,5.34,622,Main Course,49
+I255,R79,Biryani,Indian,25.12,769,Dessert,30
+I256,R128,Mapo Tofu,Chinese,27.18,129,Starter,90
+I257,R41,Kung Pao Chicken,Chinese,49.72,163,Dessert,39
+I258,R8,Pizza Margherita,Italian,26.89,804,Dessert,26
+I259,R163,Chiles Rellenos,Mexican,17.77,136,Beverage,41
+I260,R158,Spaghetti Carbonara,Italian,49.51,800,Beverage,98
+I261,R86,Churros,Mexican,48.65,763,Starter,97
+I262,R147,Fried Rice,Chinese,28.65,332,Beverage,114
+I263,R87,Wonton Soup,Chinese,12.22,770,Dessert,38
+I264,R196,Tempura,Japanese,37.66,429,Main Course,39
+I265,R186,Burrito,Mexican,14.24,201,Beverage,75
+I266,R107,Wonton Soup,Chinese,16.89,692,Beverage,44
+I267,R2,Spaghetti Carbonara,Italian,26.35,411,Dessert,39
+I268,R29,Spaghetti Carbonara,Italian,5.72,529,Beverage,31
+I269,R10,Sushi,Japanese,14.2,566,Beverage,85
+I270,R20,Pizza Margherita,Italian,47.79,402,Beverage,80
+I271,R145,Fried Rice,Chinese,20.37,629,Starter,31
+I272,R8,Tiramisu,Italian,13.37,250,Starter,5
+I273,R120,Miso Soup,Japanese,47.93,625,Starter,14
+I274,R169,Enchiladas,Mexican,46.15,696,Starter,54
+I275,R16,Miso Soup,Japanese,31.25,721,Beverage,96
+I276,R133,Miso Soup,Japanese,5.34,507,Beverage,13
+I277,R14,Ramen,Japanese,11.21,558,Starter,111
+I278,R124,Butter Chicken,Indian,27.02,536,Starter,110
+I279,R64,Gulab Jamun,Indian,20.07,786,Dessert,98
+I280,R19,Miso Soup,Japanese,9.87,465,Main Course,15
+I281,R23,Gulab Jamun,Indian,17.88,775,Beverage,45
+I282,R74,Chole Bhature,Indian,49.09,341,Starter,81
+I283,R184,Chiles Rellenos,Mexican,5.08,717,Starter,81
+I284,R68,Lasagna,Italian,47.52,166,Dessert,82
+I285,R53,Tempura,Japanese,36.95,830,Beverage,51
+I286,R107,Sushi,Japanese,36.78,130,Main Course,20
+I287,R79,Sushi,Japanese,5.56,588,Main Course,11
+I288,R164,Mapo Tofu,Chinese,24.94,373,Starter,78
+I289,R138,Chole Bhature,Indian,37.81,224,Dessert,90
+I290,R132,Wonton Soup,Chinese,29.07,637,Beverage,39
+I291,R63,Lasagna,Italian,36.9,299,Dessert,48
+I292,R116,Spaghetti Carbonara,Italian,30.18,586,Starter,31
+I293,R160,Fried Rice,Chinese,16.37,360,Main Course,23
+I294,R171,Tiramisu,Italian,5.39,319,Starter,23
+I295,R191,Pizza Margherita,Italian,40.79,436,Dessert,71
+I296,R77,Rogan Josh,Indian,22.33,822,Starter,88
+I297,R34,Miso Soup,Japanese,29.65,961,Dessert,102
+I298,R142,Tiramisu,Italian,31.96,355,Main Course,64
+I299,R13,Tiramisu,Italian,32.63,939,Starter,79
+I300,R117,Pizza Margherita,Italian,40.86,578,Beverage,71
+I301,R92,Lasagna,Italian,11.79,516,Beverage,41
+I302,R178,Burrito,Mexican,17.91,550,Starter,38
+I303,R196,Tiramisu,Italian,46.08,828,Dessert,22
+I304,R35,Gulab Jamun,Indian,5.03,434,Starter,48
+I305,R187,Lasagna,Italian,7.12,965,Dessert,22
+I306,R140,Tacos,Mexican,48.1,470,Dessert,85
+I307,R36,Butter Chicken,Indian,34.91,517,Starter,56
+I308,R15,Sweet and Sour Pork,Chinese,31.65,123,Beverage,79
+I309,R14,Risotto,Italian,14.96,510,Beverage,41
+I310,R17,Biryani,Indian,39.53,184,Starter,39
+I311,R176,Gulab Jamun,Indian,6.39,356,Main Course,106
+I312,R99,Udon,Japanese,7.48,131,Dessert,74
+I313,R148,Burrito,Mexican,10.36,410,Main Course,60
+I314,R171,Spaghetti Carbonara,Italian,10.9,532,Starter,54
+I315,R182,Pizza Margherita,Italian,41.29,194,Main Course,118
+I316,R23,Chiles Rellenos,Mexican,37.96,765,Starter,94
+I317,R179,Sushi,Japanese,16.51,934,Main Course,69
+I318,R168,Tempura,Japanese,18.99,737,Dessert,17
+I319,R163,Pizza Margherita,Italian,30.13,515,Dessert,28
+I320,R32,Lasagna,Italian,49.16,580,Starter,76
+I321,R156,Ramen,Japanese,19.42,445,Dessert,20
+I322,R169,Tacos,Mexican,24.57,360,Main Course,7
+I323,R108,Miso Soup,Japanese,5.43,215,Beverage,106
+I324,R30,Sweet and Sour Pork,Chinese,38.18,156,Beverage,98
+I325,R144,Ramen,Japanese,36.31,819,Beverage,47
+I326,R61,Fried Rice,Chinese,21.82,210,Main Course,57
+I327,R57,Sweet and Sour Pork,Chinese,14.07,169,Starter,80
+I328,R60,Rogan Josh,Indian,17.55,586,Starter,106
+I329,R40,Pizza Margherita,Italian,42.05,270,Dessert,88
+I330,R175,Enchiladas,Mexican,22.47,132,Dessert,49
+I331,R187,Rogan Josh,Indian,37.69,631,Main Course,29
+I332,R122,Chole Bhature,Indian,16.09,391,Starter,109
+I333,R146,Tempura,Japanese,38.44,896,Dessert,19
+I334,R23,Kung Pao Chicken,Chinese,19.53,759,Beverage,57
+I335,R124,Burrito,Mexican,33.85,532,Main Course,105
+I336,R37,Fried Rice,Chinese,20.18,395,Main Course,98
+I337,R119,Fried Rice,Chinese,24.5,771,Beverage,31
+I338,R61,Chiles Rellenos,Mexican,22.26,207,Beverage,67
+I339,R37,Udon,Japanese,5.02,330,Dessert,34
+I340,R104,Mapo Tofu,Chinese,20.16,682,Dessert,97
+I341,R195,Burrito,Mexican,31.28,329,Beverage,48
+I342,R139,Tacos,Mexican,44.53,479,Main Course,21
+I343,R89,Risotto,Italian,32.99,502,Starter,80
+I344,R110,Chole Bhature,Indian,39.05,813,Beverage,35
+I345,R137,Tempura,Japanese,20.17,815,Starter,56
+I346,R142,Tacos,Mexican,35.87,852,Dessert,9
+I347,R178,Tiramisu,Italian,21.12,396,Dessert,79
+I348,R151,Chole Bhature,Indian,45.36,691,Beverage,113
+I349,R174,Chole Bhature,Indian,41.59,841,Starter,79
+I350,R56,Chiles Rellenos,Mexican,18.06,547,Main Course,93
+I351,R143,Risotto,Italian,19.92,542,Dessert,17
+I352,R139,Tacos,Mexican,28.55,628,Beverage,98
+I353,R79,Lasagna,Italian,41.48,654,Beverage,81
+I354,R36,Chole Bhature,Indian,40.02,658,Starter,41
+I355,R21,Lasagna,Italian,9.86,862,Main Course,67
+I356,R142,Spaghetti Carbonara,Italian,22.9,965,Main Course,21
+I357,R186,Risotto,Italian,24.23,686,Beverage,110
+I358,R46,Butter Chicken,Indian,45.43,550,Dessert,87
+I359,R134,Pizza Margherita,Italian,35.81,317,Dessert,49
+I360,R46,Gulab Jamun,Indian,34.07,138,Starter,37
+I361,R189,Tiramisu,Italian,43.87,191,Dessert,103
+I362,R189,Fried Rice,Chinese,41.3,227,Beverage,38
+I363,R138,Sushi,Japanese,44.69,887,Starter,62
+I364,R33,Risotto,Italian,21.77,946,Dessert,74
+I365,R32,Fried Rice,Chinese,9.24,826,Main Course,11
+I366,R149,Biryani,Indian,42.9,740,Starter,110
+I367,R86,Fried Rice,Chinese,7.46,945,Starter,76
+I368,R147,Tiramisu,Italian,13.24,998,Main Course,95
+I369,R192,Rogan Josh,Indian,25.95,865,Starter,103
+I370,R187,Fried Rice,Chinese,16.35,481,Main Course,104
+I371,R75,Udon,Japanese,32.1,842,Starter,93
+I372,R74,Lasagna,Italian,42.96,936,Dessert,30
+I373,R195,Mapo Tofu,Chinese,7.73,640,Beverage,76
+I374,R88,Mapo Tofu,Chinese,22.25,574,Main Course,20
+I375,R60,Miso Soup,Japanese,37.9,254,Beverage,37
+I376,R88,Miso Soup,Japanese,35.01,440,Beverage,35
+I377,R168,Chiles Rellenos,Mexican,45.09,408,Dessert,89
+I378,R166,Lasagna,Italian,33.74,585,Main Course,49
+I379,R165,Udon,Japanese,47.46,927,Main Course,91
+I380,R177,Pizza Margherita,Italian,20.09,270,Dessert,110
+I381,R65,Sushi,Japanese,24.12,831,Main Course,59
+I382,R51,Kung Pao Chicken,Chinese,10.9,710,Dessert,60
+I383,R58,Butter Chicken,Indian,23.61,146,Starter,29
+I384,R178,Miso Soup,Japanese,20.46,328,Beverage,115
+I385,R86,Fried Rice,Chinese,11.39,326,Dessert,119
+I386,R26,Spaghetti Carbonara,Italian,10.98,200,Main Course,37
+I387,R122,Kung Pao Chicken,Chinese,43.94,831,Starter,31
+I388,R77,Burrito,Mexican,49.74,686,Starter,101
+I389,R200,Enchiladas,Mexican,10.16,106,Starter,91
+I390,R51,Udon,Japanese,36.81,787,Starter,14
+I391,R112,Biryani,Indian,37.63,171,Main Course,47
+I392,R42,Biryani,Indian,34.22,803,Beverage,77
+I393,R26,Pizza Margherita,Italian,8.78,844,Dessert,23
+I394,R42,Tacos,Mexican,5.94,331,Starter,25
+I395,R119,Biryani,Indian,10.13,511,Dessert,100
+I396,R3,Tacos,Mexican,7.89,700,Starter,44
+I397,R24,Ramen,Japanese,40.88,427,Main Course,94
+I398,R161,Sushi,Japanese,33.95,346,Dessert,118
+I399,R191,Sweet and Sour Pork,Chinese,15.72,717,Main Course,5
+I400,R2,Spaghetti Carbonara,Italian,25.2,843,Main Course,84
+I401,R56,Pizza Margherita,Italian,44.17,192,Beverage,6
+I402,R25,Sushi,Japanese,29.1,354,Starter,16
+I403,R34,Wonton Soup,Chinese,27.13,162,Main Course,80
+I404,R58,Churros,Mexican,40.8,543,Dessert,118
+I405,R72,Fried Rice,Chinese,46.69,149,Main Course,54
+I406,R50,Chole Bhature,Indian,45.02,501,Dessert,83
+I407,R106,Chiles Rellenos,Mexican,38.31,202,Beverage,50
+I408,R42,Wonton Soup,Chinese,25.24,321,Starter,24
+I409,R70,Spaghetti Carbonara,Italian,19.25,979,Main Course,18
+I410,R148,Gulab Jamun,Indian,42.49,358,Dessert,52
+I411,R10,Kung Pao Chicken,Chinese,38.53,558,Dessert,35
+I412,R89,Butter Chicken,Indian,8.79,455,Dessert,40
+I413,R54,Tiramisu,Italian,32.97,736,Dessert,46
+I414,R100,Burrito,Mexican,34.52,966,Beverage,50
+I415,R125,Ramen,Japanese,35.27,328,Beverage,15
+I416,R126,Enchiladas,Mexican,48.7,446,Starter,74
+I417,R175,Chole Bhature,Indian,9.47,304,Starter,16
+I418,R79,Biryani,Indian,40.42,365,Main Course,76
+I419,R198,Chiles Rellenos,Mexican,33.6,136,Dessert,33
+I420,R181,Kung Pao Chicken,Chinese,6.34,831,Dessert,56
+I421,R75,Sweet and Sour Pork,Chinese,34.81,608,Main Course,27
+I422,R67,Biryani,Indian,36.52,582,Beverage,18
+I423,R95,Fried Rice,Chinese,19.15,798,Starter,72
+I424,R67,Gulab Jamun,Indian,22.36,883,Dessert,109
+I425,R146,Sushi,Japanese,15.54,813,Dessert,70
+I426,R131,Fried Rice,Chinese,20.48,434,Beverage,103
+I427,R147,Risotto,Italian,41.19,359,Dessert,73
+I428,R171,Butter Chicken,Indian,8.12,832,Starter,79
+I429,R177,Rogan Josh,Indian,25.7,254,Dessert,118
+I430,R48,Risotto,Italian,49.44,233,Starter,10
+I431,R133,Pizza Margherita,Italian,30.2,245,Main Course,63
+I432,R197,Rogan Josh,Indian,22.69,225,Dessert,87
+I433,R96,Lasagna,Italian,43.66,177,Beverage,102
+I434,R130,Kung Pao Chicken,Chinese,24.91,803,Dessert,114
+I435,R53,Udon,Japanese,12.05,137,Dessert,24
+I436,R188,Kung Pao Chicken,Chinese,28.04,737,Dessert,49
+I437,R124,Wonton Soup,Chinese,9.21,703,Beverage,55
+I438,R135,Tiramisu,Italian,13.62,481,Dessert,71
+I439,R77,Chole Bhature,Indian,13.91,556,Main Course,40
+I440,R73,Butter Chicken,Indian,15.12,422,Dessert,86
+I441,R52,Tiramisu,Italian,9.01,487,Beverage,86
+I442,R93,Biryani,Indian,35.0,963,Beverage,66
+I443,R177,Burrito,Mexican,31.31,253,Main Course,43
+I444,R150,Sushi,Japanese,35.57,544,Dessert,115
+I445,R200,Udon,Japanese,19.47,716,Starter,76
+I446,R142,Gulab Jamun,Indian,42.94,164,Main Course,95
+I447,R123,Pizza Margherita,Italian,5.68,321,Starter,25
+I448,R196,Gulab Jamun,Indian,27.46,346,Beverage,114
+I449,R174,Risotto,Italian,24.12,693,Beverage,45
+I450,R86,Ramen,Japanese,33.58,582,Main Course,58
+I451,R86,Mapo Tofu,Chinese,5.24,134,Starter,94
+I452,R27,Burrito,Mexican,20.4,947,Main Course,75
+I453,R178,Chole Bhature,Indian,21.83,156,Dessert,54
+I454,R20,Mapo Tofu,Chinese,13.89,560,Main Course,88
+I455,R3,Chiles Rellenos,Mexican,47.31,325,Beverage,113
+I456,R96,Rogan Josh,Indian,14.1,325,Dessert,67
+I457,R107,Risotto,Italian,22.06,386,Beverage,119
+I458,R160,Sweet and Sour Pork,Chinese,26.43,452,Starter,81
+I459,R178,Enchiladas,Mexican,19.42,351,Beverage,36
+I460,R89,Sweet and Sour Pork,Chinese,41.71,835,Main Course,31
+I461,R72,Spaghetti Carbonara,Italian,38.53,643,Beverage,77
+I462,R129,Udon,Japanese,15.61,612,Beverage,77
+I463,R129,Mapo Tofu,Chinese,37.56,850,Main Course,30
+I464,R128,Enchiladas,Mexican,16.12,226,Starter,18
+I465,R155,Enchiladas,Mexican,29.72,401,Dessert,102
+I466,R145,Burrito,Mexican,15.46,727,Starter,30
+I467,R122,Rogan Josh,Indian,11.18,569,Main Course,106
+I468,R96,Udon,Japanese,49.62,179,Starter,73
+I469,R155,Wonton Soup,Chinese,10.97,257,Main Course,87
+I470,R40,Sushi,Japanese,16.97,109,Main Course,13
+I471,R90,Pizza Margherita,Italian,42.46,701,Starter,38
+I472,R128,Biryani,Indian,5.49,587,Dessert,100
+I473,R27,Tempura,Japanese,37.42,114,Beverage,67
+I474,R139,Spaghetti Carbonara,Italian,14.63,429,Beverage,19
+I475,R79,Churros,Mexican,46.31,621,Dessert,23
+I476,R122,Tiramisu,Italian,9.66,873,Beverage,70
+I477,R200,Wonton Soup,Chinese,21.41,693,Beverage,41
+I478,R94,Butter Chicken,Indian,18.76,247,Dessert,118
+I479,R82,Sushi,Japanese,35.69,807,Starter,55
+I480,R166,Ramen,Japanese,33.47,769,Beverage,71
+I481,R155,Tiramisu,Italian,37.72,730,Beverage,58
+I482,R85,Risotto,Italian,25.51,660,Beverage,102
+I483,R161,Mapo Tofu,Chinese,41.8,313,Dessert,53
+I484,R134,Spaghetti Carbonara,Italian,35.54,134,Beverage,9
+I485,R87,Wonton Soup,Chinese,16.19,582,Starter,10
+I486,R9,Miso Soup,Japanese,10.53,205,Beverage,15
+I487,R191,Sushi,Japanese,20.18,590,Beverage,36
+I488,R195,Chole Bhature,Indian,9.31,520,Dessert,41
+I489,R44,Tempura,Japanese,41.83,536,Main Course,67
+I490,R196,Sushi,Japanese,20.05,204,Dessert,67
+I491,R32,Enchiladas,Mexican,40.27,109,Starter,61
+I492,R197,Mapo Tofu,Chinese,25.9,772,Starter,79
+I493,R115,Tacos,Mexican,33.42,992,Main Course,100
+I494,R13,Udon,Japanese,42.86,373,Dessert,38
+I495,R133,Rogan Josh,Indian,24.09,155,Beverage,44
+I496,R15,Sushi,Japanese,9.35,968,Dessert,33
+I497,R26,Risotto,Italian,26.76,247,Dessert,96
+I498,R184,Kung Pao Chicken,Chinese,33.32,312,Beverage,104
+I499,R161,Fried Rice,Chinese,49.06,234,Main Course,75
+I500,R159,Ramen,Japanese,16.08,697,Main Course,47
+I501,R163,Ramen,Japanese,14.56,698,Main Course,21
+I502,R149,Sweet and Sour Pork,Chinese,8.0,476,Dessert,78
+I503,R60,Enchiladas,Mexican,31.5,481,Main Course,44
+I504,R6,Ramen,Japanese,24.85,647,Starter,59
+I505,R160,Enchiladas,Mexican,44.03,382,Starter,100
+I506,R119,Fried Rice,Chinese,12.94,565,Dessert,89
+I507,R27,Wonton Soup,Chinese,34.8,604,Dessert,21
+I508,R158,Wonton Soup,Chinese,7.59,241,Dessert,101
+I509,R135,Tempura,Japanese,10.47,568,Main Course,114
+I510,R82,Tiramisu,Italian,32.6,816,Beverage,119
+I511,R137,Chole Bhature,Indian,25.52,778,Main Course,91
+I512,R144,Rogan Josh,Indian,42.73,789,Main Course,65
+I513,R21,Chole Bhature,Indian,13.28,163,Dessert,84
+I514,R72,Wonton Soup,Chinese,47.97,980,Main Course,70
+I515,R97,Tiramisu,Italian,22.33,437,Beverage,11
+I516,R72,Pizza Margherita,Italian,32.52,277,Beverage,109
+I517,R120,Churros,Mexican,43.42,504,Starter,59
+I518,R134,Tiramisu,Italian,8.56,517,Beverage,64
+I519,R70,Chiles Rellenos,Mexican,11.75,719,Starter,78
+I520,R167,Chiles Rellenos,Mexican,31.39,693,Starter,65
+I521,R112,Churros,Mexican,33.42,424,Starter,106
+I522,R181,Gulab Jamun,Indian,9.64,759,Beverage,17
+I523,R83,Tacos,Mexican,23.24,606,Beverage,6
+I524,R116,Wonton Soup,Chinese,33.87,545,Beverage,76
+I525,R73,Biryani,Indian,6.62,403,Beverage,115
+I526,R188,Rogan Josh,Indian,43.48,883,Dessert,41
+I527,R23,Sushi,Japanese,33.01,863,Beverage,82
+I528,R183,Churros,Mexican,41.98,270,Main Course,5
+I529,R89,Pizza Margherita,Italian,29.69,829,Dessert,16
+I530,R158,Miso Soup,Japanese,49.36,344,Beverage,8
+I531,R56,Sushi,Japanese,40.01,248,Dessert,85
+I532,R189,Burrito,Mexican,17.01,295,Beverage,59
+I533,R191,Sweet and Sour Pork,Chinese,11.61,142,Beverage,92
+I534,R167,Tiramisu,Italian,29.68,156,Dessert,117
+I535,R55,Udon,Japanese,45.31,411,Starter,75
+I536,R103,Spaghetti Carbonara,Italian,18.22,878,Beverage,10
+I537,R138,Churros,Mexican,43.72,903,Dessert,6
+I538,R8,Pizza Margherita,Italian,25.86,579,Dessert,112
+I539,R139,Risotto,Italian,38.76,664,Beverage,17
+I540,R44,Burrito,Mexican,33.94,639,Main Course,106
+I541,R19,Enchiladas,Mexican,29.57,698,Main Course,60
+I542,R21,Tiramisu,Italian,33.72,914,Starter,15
+I543,R38,Kung Pao Chicken,Chinese,39.3,181,Beverage,97
+I544,R149,Gulab Jamun,Indian,11.84,113,Dessert,59
+I545,R140,Enchiladas,Mexican,27.18,120,Main Course,6
+I546,R151,Tempura,Japanese,34.52,163,Starter,108
+I547,R153,Wonton Soup,Chinese,29.18,934,Starter,12
+I548,R109,Chiles Rellenos,Mexican,17.1,456,Starter,30
+I549,R132,Mapo Tofu,Chinese,18.78,411,Dessert,97
+I550,R111,Wonton Soup,Chinese,42.67,877,Starter,92
+I551,R70,Burrito,Mexican,45.7,340,Main Course,39
+I552,R20,Udon,Japanese,24.78,800,Starter,97
+I553,R165,Sweet and Sour Pork,Chinese,8.18,620,Dessert,16
+I554,R197,Ramen,Japanese,44.55,940,Dessert,13
+I555,R43,Enchiladas,Mexican,9.51,685,Starter,54
+I556,R8,Udon,Japanese,12.53,110,Beverage,81
+I557,R106,Biryani,Indian,32.66,670,Main Course,14
+I558,R22,Sweet and Sour Pork,Chinese,11.29,617,Dessert,37
+I559,R61,Miso Soup,Japanese,5.51,968,Starter,58
+I560,R40,Biryani,Indian,19.31,791,Starter,120
+I561,R198,Wonton Soup,Chinese,37.28,970,Dessert,14
+I562,R122,Burrito,Mexican,28.3,777,Beverage,115
+I563,R13,Tempura,Japanese,22.87,767,Beverage,25
+I564,R9,Fried Rice,Chinese,40.16,466,Main Course,27
+I565,R137,Burrito,Mexican,10.88,429,Dessert,63
+I566,R11,Lasagna,Italian,39.46,184,Dessert,72
+I567,R11,Gulab Jamun,Indian,20.71,158,Beverage,8
+I568,R98,Tempura,Japanese,10.13,677,Beverage,73
+I569,R8,Rogan Josh,Indian,10.93,257,Starter,83
+I570,R12,Lasagna,Italian,26.1,398,Dessert,101
+I571,R42,Udon,Japanese,39.41,554,Dessert,39
+I572,R25,Wonton Soup,Chinese,47.38,648,Main Course,14
+I573,R176,Churros,Mexican,30.25,217,Main Course,28
+I574,R17,Tacos,Mexican,6.0,582,Dessert,14
+I575,R196,Mapo Tofu,Chinese,24.94,512,Dessert,53
+I576,R113,Wonton Soup,Chinese,35.35,364,Dessert,8
+I577,R127,Udon,Japanese,43.13,873,Main Course,83
+I578,R142,Butter Chicken,Indian,23.66,571,Dessert,81
+I579,R172,Gulab Jamun,Indian,34.08,570,Dessert,79
+I580,R9,Sweet and Sour Pork,Chinese,39.4,261,Dessert,87
+I581,R77,Tempura,Japanese,27.07,904,Starter,26
+I582,R89,Pizza Margherita,Italian,44.72,397,Main Course,87
+I583,R7,Biryani,Indian,27.44,236,Dessert,56
+I584,R138,Biryani,Indian,33.38,882,Main Course,47
+I585,R121,Tempura,Japanese,35.22,568,Dessert,96
+I586,R24,Tacos,Mexican,6.6,776,Main Course,56
+I587,R25,Biryani,Indian,42.25,925,Starter,93
+I588,R179,Ramen,Japanese,5.13,429,Main Course,111
+I589,R159,Pizza Margherita,Italian,7.98,310,Beverage,13
+I590,R149,Pizza Margherita,Italian,16.51,367,Main Course,98
+I591,R71,Udon,Japanese,22.36,649,Starter,66
+I592,R95,Tempura,Japanese,33.27,667,Beverage,57
+I593,R1,Sweet and Sour Pork,Chinese,26.02,559,Beverage,45
+I594,R25,Burrito,Mexican,13.07,607,Dessert,52
+I595,R110,Lasagna,Italian,8.38,830,Beverage,26
+I596,R53,Sushi,Japanese,22.45,730,Starter,83
+I597,R145,Biryani,Indian,46.22,257,Dessert,54
+I598,R135,Sushi,Japanese,47.43,960,Main Course,46
+I599,R147,Rogan Josh,Indian,42.32,423,Main Course,94
+I600,R195,Kung Pao Chicken,Chinese,5.21,284,Beverage,14
+I601,R181,Gulab Jamun,Indian,37.97,870,Dessert,78
+I602,R38,Chole Bhature,Indian,26.28,603,Starter,66
+I603,R38,Sweet and Sour Pork,Chinese,32.92,647,Dessert,114
+I604,R200,Sushi,Japanese,41.89,905,Dessert,30
+I605,R186,Butter Chicken,Indian,28.02,812,Dessert,64
+I606,R173,Tempura,Japanese,39.85,938,Main Course,101
+I607,R179,Rogan Josh,Indian,34.34,428,Starter,31
+I608,R88,Udon,Japanese,37.17,428,Beverage,107
+I609,R91,Churros,Mexican,19.15,634,Starter,81
+I610,R59,Mapo Tofu,Chinese,30.58,786,Main Course,33
+I611,R168,Enchiladas,Mexican,21.78,261,Main Course,68
+I612,R13,Mapo Tofu,Chinese,5.72,152,Dessert,13
+I613,R73,Ramen,Japanese,33.44,905,Starter,33
+I614,R6,Chiles Rellenos,Mexican,44.09,318,Dessert,19
+I615,R200,Miso Soup,Japanese,35.08,947,Dessert,88
+I616,R190,Risotto,Italian,14.21,580,Beverage,113
+I617,R15,Biryani,Indian,31.54,761,Main Course,8
+I618,R196,Lasagna,Italian,21.98,431,Dessert,22
+I619,R178,Lasagna,Italian,41.61,584,Starter,108
+I620,R167,Risotto,Italian,6.17,145,Main Course,22
+I621,R112,Wonton Soup,Chinese,16.41,849,Beverage,48
+I622,R130,Tempura,Japanese,33.96,566,Starter,73
+I623,R96,Burrito,Mexican,5.05,225,Dessert,58
+I624,R41,Sushi,Japanese,19.86,178,Main Course,59
+I625,R148,Burrito,Mexican,46.69,611,Starter,115
+I626,R71,Chole Bhature,Indian,31.61,289,Dessert,98
+I627,R124,Burrito,Mexican,34.07,516,Dessert,116
+I628,R102,Kung Pao Chicken,Chinese,14.13,723,Beverage,97
+I629,R30,Pizza Margherita,Italian,15.71,399,Main Course,117
+I630,R84,Churros,Mexican,40.51,218,Dessert,104
+I631,R90,Udon,Japanese,49.62,339,Dessert,33
+I632,R141,Fried Rice,Chinese,12.63,569,Starter,97
+I633,R82,Spaghetti Carbonara,Italian,19.1,409,Main Course,103
+I634,R180,Tacos,Mexican,26.7,378,Starter,27
+I635,R112,Ramen,Japanese,23.46,565,Beverage,35
+I636,R52,Spaghetti Carbonara,Italian,34.02,910,Starter,19
+I637,R37,Udon,Japanese,44.89,885,Main Course,15
+I638,R153,Chiles Rellenos,Mexican,17.25,339,Starter,37
+I639,R171,Lasagna,Italian,41.0,472,Main Course,67
+I640,R193,Tacos,Mexican,15.35,719,Main Course,100
+I641,R60,Churros,Mexican,49.28,326,Starter,24
+I642,R103,Wonton Soup,Chinese,39.37,962,Starter,41
+I643,R135,Kung Pao Chicken,Chinese,37.23,864,Beverage,28
+I644,R102,Miso Soup,Japanese,19.02,477,Starter,62
+I645,R190,Burrito,Mexican,31.78,319,Main Course,49
+I646,R124,Tiramisu,Italian,24.53,899,Main Course,36
+I647,R14,Tacos,Mexican,6.84,344,Starter,11
+I648,R192,Fried Rice,Chinese,11.31,473,Dessert,59
+I649,R37,Burrito,Mexican,9.44,330,Dessert,53
+I650,R25,Tacos,Mexican,27.96,464,Dessert,114
+I651,R139,Rogan Josh,Indian,22.57,834,Main Course,21
+I652,R194,Enchiladas,Mexican,16.33,253,Beverage,98
+I653,R137,Churros,Mexican,32.88,653,Starter,20
+I654,R16,Spaghetti Carbonara,Italian,17.1,999,Main Course,38
+I655,R197,Pizza Margherita,Italian,24.18,386,Dessert,120
+I656,R72,Tacos,Mexican,16.74,425,Dessert,98
+I657,R73,Ramen,Japanese,35.78,919,Dessert,25
+I658,R166,Gulab Jamun,Indian,25.85,958,Dessert,99
+I659,R45,Tiramisu,Italian,19.22,490,Starter,69
+I660,R142,Sweet and Sour Pork,Chinese,18.08,967,Starter,11
+I661,R111,Sushi,Japanese,7.51,686,Starter,50
+I662,R196,Miso Soup,Japanese,29.7,551,Starter,7
+I663,R106,Fried Rice,Chinese,36.11,180,Starter,77
+I664,R174,Miso Soup,Japanese,8.27,826,Starter,118
+I665,R68,Churros,Mexican,26.17,967,Starter,90
+I666,R115,Tacos,Mexican,22.15,681,Main Course,46
+I667,R40,Biryani,Indian,39.45,772,Main Course,119
+I668,R43,Fried Rice,Chinese,42.29,564,Main Course,26
+I669,R138,Chole Bhature,Indian,39.52,771,Dessert,43
+I670,R136,Tiramisu,Italian,17.86,475,Beverage,6
+I671,R17,Risotto,Italian,34.73,141,Beverage,26
+I672,R77,Chiles Rellenos,Mexican,22.14,670,Beverage,39
+I673,R61,Spaghetti Carbonara,Italian,10.21,741,Main Course,71
+I674,R192,Burrito,Mexican,24.04,387,Beverage,12
+I675,R12,Sushi,Japanese,29.82,205,Dessert,13
+I676,R69,Sweet and Sour Pork,Chinese,48.13,760,Main Course,79
+I677,R168,Wonton Soup,Chinese,14.84,832,Beverage,6
+I678,R24,Lasagna,Italian,33.22,712,Starter,15
+I679,R118,Mapo Tofu,Chinese,12.71,674,Dessert,63
+I680,R134,Lasagna,Italian,31.69,613,Dessert,21
+I681,R162,Kung Pao Chicken,Chinese,14.09,147,Dessert,95
+I682,R109,Kung Pao Chicken,Chinese,27.45,476,Main Course,82
+I683,R63,Tempura,Japanese,11.45,625,Dessert,84
+I684,R30,Chole Bhature,Indian,35.13,968,Main Course,25
+I685,R156,Burrito,Mexican,35.46,141,Main Course,39
+I686,R100,Risotto,Italian,19.83,516,Main Course,31
+I687,R162,Udon,Japanese,18.63,343,Dessert,25
+I688,R102,Tempura,Japanese,40.02,545,Dessert,28
+I689,R148,Udon,Japanese,42.15,683,Main Course,95
+I690,R165,Tempura,Japanese,19.78,744,Main Course,16
+I691,R70,Gulab Jamun,Indian,29.94,787,Starter,102
+I692,R135,Wonton Soup,Chinese,48.77,957,Starter,96
+I693,R113,Lasagna,Italian,8.1,452,Beverage,63
+I694,R128,Fried Rice,Chinese,44.94,331,Beverage,107
+I695,R90,Wonton Soup,Chinese,16.34,737,Beverage,60
+I696,R80,Pizza Margherita,Italian,34.91,184,Main Course,80
+I697,R143,Chole Bhature,Indian,10.61,894,Dessert,67
+I698,R134,Tempura,Japanese,49.65,802,Main Course,79
+I699,R78,Udon,Japanese,6.82,102,Dessert,44
+I700,R190,Tempura,Japanese,44.72,521,Dessert,8
+I701,R141,Gulab Jamun,Indian,35.5,873,Beverage,87
+I702,R139,Chole Bhature,Indian,39.5,497,Main Course,29
+I703,R40,Fried Rice,Chinese,9.53,812,Dessert,11
+I704,R146,Lasagna,Italian,24.1,157,Starter,108
+I705,R175,Lasagna,Italian,29.07,285,Main Course,76
+I706,R2,Enchiladas,Mexican,12.01,579,Beverage,114
+I707,R114,Fried Rice,Chinese,27.96,364,Main Course,93
+I708,R91,Mapo Tofu,Chinese,13.02,127,Beverage,75
+I709,R98,Gulab Jamun,Indian,22.33,140,Beverage,98
+I710,R58,Burrito,Mexican,7.16,388,Dessert,111
+I711,R134,Kung Pao Chicken,Chinese,22.04,527,Starter,23
+I712,R97,Churros,Mexican,41.03,331,Starter,49
+I713,R45,Lasagna,Italian,34.94,375,Dessert,32
+I714,R135,Kung Pao Chicken,Chinese,12.38,997,Dessert,59
+I715,R32,Gulab Jamun,Indian,45.49,399,Beverage,29
+I716,R61,Tempura,Japanese,10.2,506,Main Course,12
+I717,R32,Butter Chicken,Indian,10.21,219,Beverage,73
+I718,R9,Gulab Jamun,Indian,10.72,686,Beverage,68
+I719,R100,Lasagna,Italian,31.49,174,Starter,14
+I720,R37,Mapo Tofu,Chinese,27.39,156,Starter,14
+I721,R174,Butter Chicken,Indian,46.74,298,Dessert,16
+I722,R17,Wonton Soup,Chinese,28.17,103,Starter,115
+I723,R12,Enchiladas,Mexican,40.45,745,Dessert,8
+I724,R50,Tiramisu,Italian,47.23,450,Beverage,43
+I725,R128,Butter Chicken,Indian,22.52,520,Dessert,103
+I726,R41,Mapo Tofu,Chinese,12.54,381,Dessert,55
+I727,R52,Chiles Rellenos,Mexican,11.68,730,Beverage,40
+I728,R115,Sushi,Japanese,19.01,424,Dessert,18
+I729,R69,Udon,Japanese,30.89,333,Dessert,66
+I730,R119,Pizza Margherita,Italian,10.14,734,Main Course,88
+I731,R158,Biryani,Indian,28.91,458,Dessert,89
+I732,R136,Gulab Jamun,Indian,21.5,731,Beverage,68
+I733,R99,Burrito,Mexican,38.83,563,Dessert,57
+I734,R102,Wonton Soup,Chinese,18.96,399,Starter,11
+I735,R100,Biryani,Indian,24.94,415,Dessert,57
+I736,R36,Chiles Rellenos,Mexican,42.16,420,Main Course,32
+I737,R175,Lasagna,Italian,27.23,347,Main Course,18
+I738,R82,Pizza Margherita,Italian,9.21,309,Beverage,111
+I739,R157,Burrito,Mexican,21.98,301,Beverage,17
+I740,R98,Ramen,Japanese,12.57,947,Beverage,53
+I741,R93,Risotto,Italian,14.29,259,Dessert,47
+I742,R42,Butter Chicken,Indian,37.83,473,Beverage,22
+I743,R81,Enchiladas,Mexican,22.85,206,Dessert,48
+I744,R177,Sweet and Sour Pork,Chinese,31.49,370,Main Course,67
+I745,R22,Lasagna,Italian,23.87,420,Main Course,103
+I746,R130,Biryani,Indian,13.46,779,Dessert,37
+I747,R155,Chiles Rellenos,Mexican,41.37,612,Starter,55
+I748,R163,Tiramisu,Italian,27.09,453,Beverage,117
+I749,R48,Kung Pao Chicken,Chinese,35.73,525,Beverage,33
+I750,R77,Kung Pao Chicken,Chinese,27.97,938,Starter,7
+I751,R156,Lasagna,Italian,11.4,672,Main Course,39
+I752,R45,Miso Soup,Japanese,31.06,365,Starter,53
+I753,R148,Tacos,Mexican,37.87,165,Main Course,96
+I754,R100,Chiles Rellenos,Mexican,8.54,583,Main Course,36
+I755,R6,Ramen,Japanese,32.49,184,Main Course,93
+I756,R128,Lasagna,Italian,18.98,115,Beverage,118
+I757,R41,Chiles Rellenos,Mexican,27.67,380,Main Course,94
+I758,R111,Pizza Margherita,Italian,12.27,895,Starter,28
+I759,R101,Lasagna,Italian,7.43,236,Starter,55
+I760,R1,Tiramisu,Italian,5.95,943,Main Course,45
+I761,R176,Butter Chicken,Indian,41.15,325,Main Course,95
+I762,R106,Udon,Japanese,46.91,382,Beverage,113
+I763,R46,Kung Pao Chicken,Chinese,37.94,588,Main Course,38
+I764,R84,Miso Soup,Japanese,39.28,825,Dessert,44
+I765,R86,Risotto,Italian,25.54,876,Beverage,46
+I766,R118,Enchiladas,Mexican,42.68,920,Main Course,49
+I767,R54,Tacos,Mexican,39.03,244,Starter,52
+I768,R128,Chole Bhature,Indian,36.64,876,Main Course,31
+I769,R31,Chole Bhature,Indian,38.5,655,Beverage,50
+I770,R145,Udon,Japanese,14.86,517,Dessert,63
+I771,R138,Biryani,Indian,40.77,456,Starter,72
+I772,R111,Wonton Soup,Chinese,41.76,396,Main Course,16
+I773,R22,Kung Pao Chicken,Chinese,21.83,127,Main Course,64
+I774,R68,Spaghetti Carbonara,Italian,14.39,635,Starter,45
+I775,R155,Tacos,Mexican,29.39,819,Starter,99
+I776,R191,Gulab Jamun,Indian,23.11,932,Starter,65
+I777,R184,Tempura,Japanese,11.16,763,Dessert,16
+I778,R143,Butter Chicken,Indian,43.65,214,Dessert,49
+I779,R69,Udon,Japanese,43.58,896,Starter,23
+I780,R161,Wonton Soup,Chinese,26.45,221,Starter,50
+I781,R193,Fried Rice,Chinese,42.59,661,Starter,51
+I782,R153,Lasagna,Italian,6.77,598,Main Course,106
+I783,R158,Pizza Margherita,Italian,44.77,375,Beverage,17
+I784,R166,Kung Pao Chicken,Chinese,45.84,103,Beverage,66
+I785,R114,Wonton Soup,Chinese,30.87,398,Main Course,87
+I786,R119,Fried Rice,Chinese,19.23,113,Beverage,40
+I787,R145,Gulab Jamun,Indian,11.95,891,Starter,7
+I788,R42,Udon,Japanese,10.25,285,Starter,74
+I789,R127,Tacos,Mexican,44.84,510,Main Course,17
+I790,R38,Miso Soup,Japanese,8.91,340,Dessert,29
+I791,R121,Gulab Jamun,Indian,14.77,718,Beverage,9
+I792,R117,Biryani,Indian,25.62,606,Dessert,108
+I793,R29,Spaghetti Carbonara,Italian,48.12,384,Beverage,88
+I794,R125,Wonton Soup,Chinese,40.25,925,Dessert,75
+I795,R134,Biryani,Indian,21.03,583,Starter,6
+I796,R85,Miso Soup,Japanese,21.04,364,Beverage,100
+I797,R151,Kung Pao Chicken,Chinese,19.63,965,Main Course,7
+I798,R95,Risotto,Italian,18.93,949,Beverage,73
+I799,R3,Chiles Rellenos,Mexican,14.17,974,Dessert,75
+I800,R164,Enchiladas,Mexican,33.52,142,Dessert,57
+I801,R80,Risotto,Italian,45.04,555,Main Course,107
+I802,R101,Pizza Margherita,Italian,37.3,717,Starter,107
+I803,R108,Ramen,Japanese,49.19,707,Dessert,42
+I804,R28,Udon,Japanese,28.2,268,Dessert,39
+I805,R116,Chiles Rellenos,Mexican,6.14,172,Beverage,49
+I806,R128,Gulab Jamun,Indian,30.52,347,Main Course,77
+I807,R175,Tempura,Japanese,19.47,413,Dessert,58
+I808,R1,Kung Pao Chicken,Chinese,19.79,201,Main Course,108
+I809,R17,Biryani,Indian,35.55,178,Dessert,118
+I810,R134,Ramen,Japanese,49.91,327,Main Course,98
+I811,R24,Tiramisu,Italian,18.52,649,Main Course,27
+I812,R65,Mapo Tofu,Chinese,40.58,946,Starter,8
+I813,R16,Churros,Mexican,49.4,597,Main Course,73
+I814,R177,Sweet and Sour Pork,Chinese,41.38,889,Main Course,117
+I815,R64,Chiles Rellenos,Mexican,20.83,901,Starter,88
+I816,R92,Enchiladas,Mexican,42.12,247,Starter,37
+I817,R9,Spaghetti Carbonara,Italian,47.19,542,Beverage,107
+I818,R189,Mapo Tofu,Chinese,43.56,924,Main Course,69
+I819,R125,Udon,Japanese,36.58,927,Starter,60
+I820,R95,Mapo Tofu,Chinese,36.98,853,Beverage,6
+I821,R159,Spaghetti Carbonara,Italian,5.32,681,Main Course,98
+I822,R7,Tacos,Mexican,39.66,805,Main Course,25
+I823,R75,Sushi,Japanese,30.64,796,Dessert,82
+I824,R110,Udon,Japanese,16.09,747,Starter,37
+I825,R161,Miso Soup,Japanese,13.55,639,Main Course,109
+I826,R131,Lasagna,Italian,15.63,719,Main Course,94
+I827,R173,Rogan Josh,Indian,26.95,988,Starter,5
+I828,R175,Lasagna,Italian,31.63,145,Dessert,63
+I829,R170,Tacos,Mexican,21.9,249,Main Course,17
+I830,R150,Tiramisu,Italian,9.93,191,Main Course,88
+I831,R46,Miso Soup,Japanese,24.12,119,Beverage,19
+I832,R114,Burrito,Mexican,7.73,431,Main Course,15
+I833,R187,Tiramisu,Italian,7.16,322,Dessert,109
+I834,R87,Tiramisu,Italian,37.38,343,Dessert,98
+I835,R179,Spaghetti Carbonara,Italian,39.93,177,Dessert,22
+I836,R67,Ramen,Japanese,46.02,189,Dessert,40
+I837,R27,Sushi,Japanese,47.94,873,Dessert,84
+I838,R72,Enchiladas,Mexican,46.85,454,Main Course,8
+I839,R11,Enchiladas,Mexican,29.61,263,Beverage,53
+I840,R14,Spaghetti Carbonara,Italian,29.24,959,Dessert,64
+I841,R136,Fried Rice,Chinese,20.64,857,Starter,100
+I842,R102,Wonton Soup,Chinese,32.59,188,Starter,96
+I843,R197,Wonton Soup,Chinese,33.57,839,Starter,63
+I844,R23,Churros,Mexican,49.94,409,Beverage,65
+I845,R191,Udon,Japanese,33.02,736,Starter,21
+I846,R33,Churros,Mexican,38.47,866,Beverage,71
+I847,R54,Pizza Margherita,Italian,38.23,599,Dessert,15
+I848,R146,Spaghetti Carbonara,Italian,12.18,315,Starter,11
+I849,R197,Tempura,Japanese,8.9,285,Main Course,88
+I850,R134,Risotto,Italian,36.57,383,Starter,120
+I851,R144,Rogan Josh,Indian,28.19,379,Main Course,63
+I852,R84,Lasagna,Italian,36.83,505,Starter,104
+I853,R53,Sweet and Sour Pork,Chinese,8.83,661,Dessert,16
+I854,R181,Chiles Rellenos,Mexican,31.95,123,Dessert,28
+I855,R37,Sushi,Japanese,41.94,466,Starter,25
+I856,R7,Wonton Soup,Chinese,18.85,998,Starter,57
+I857,R91,Gulab Jamun,Indian,25.84,908,Starter,105
+I858,R184,Enchiladas,Mexican,37.6,221,Starter,27
+I859,R15,Chiles Rellenos,Mexican,39.66,566,Main Course,104
+I860,R168,Kung Pao Chicken,Chinese,34.32,999,Beverage,59
+I861,R89,Risotto,Italian,15.11,724,Starter,44
+I862,R48,Mapo Tofu,Chinese,33.97,915,Dessert,42
+I863,R122,Miso Soup,Japanese,45.26,224,Main Course,52
+I864,R114,Miso Soup,Japanese,42.4,340,Dessert,94
+I865,R135,Biryani,Indian,45.09,303,Beverage,108
+I866,R28,Tiramisu,Italian,19.88,129,Main Course,87
+I867,R104,Tiramisu,Italian,12.47,316,Main Course,57
+I868,R46,Mapo Tofu,Chinese,35.53,960,Starter,20
+I869,R153,Risotto,Italian,6.48,907,Beverage,119
+I870,R188,Tempura,Japanese,32.52,491,Main Course,94
+I871,R135,Spaghetti Carbonara,Italian,20.06,523,Starter,16
+I872,R33,Tacos,Mexican,38.57,635,Dessert,52
+I873,R193,Ramen,Japanese,29.86,629,Beverage,49
+I874,R195,Wonton Soup,Chinese,27.83,652,Dessert,22
+I875,R121,Sweet and Sour Pork,Chinese,31.66,122,Main Course,112
+I876,R103,Fried Rice,Chinese,46.43,273,Main Course,91
+I877,R141,Lasagna,Italian,30.85,961,Main Course,46
+I878,R112,Fried Rice,Chinese,34.35,943,Main Course,30
+I879,R181,Fried Rice,Chinese,25.41,975,Dessert,16
+I880,R69,Gulab Jamun,Indian,42.54,655,Dessert,18
+I881,R160,Gulab Jamun,Indian,32.95,622,Starter,48
+I882,R150,Risotto,Italian,8.59,306,Main Course,28
+I883,R167,Enchiladas,Mexican,45.46,557,Main Course,75
+I884,R175,Sweet and Sour Pork,Chinese,26.43,163,Dessert,60
+I885,R149,Burrito,Mexican,30.25,476,Main Course,86
+I886,R197,Sushi,Japanese,40.45,333,Dessert,63
+I887,R148,Enchiladas,Mexican,8.25,264,Main Course,89
+I888,R10,Tempura,Japanese,34.2,819,Dessert,37
+I889,R175,Udon,Japanese,26.07,999,Beverage,38
+I890,R98,Miso Soup,Japanese,45.76,628,Starter,47
+I891,R200,Sushi,Japanese,42.92,287,Starter,14
+I892,R92,Mapo Tofu,Chinese,45.58,641,Main Course,76
+I893,R69,Kung Pao Chicken,Chinese,40.44,851,Dessert,34
+I894,R51,Rogan Josh,Indian,17.27,872,Main Course,58
+I895,R199,Spaghetti Carbonara,Italian,35.14,514,Starter,111
+I896,R83,Chiles Rellenos,Mexican,16.69,351,Starter,95
+I897,R187,Burrito,Mexican,9.01,164,Beverage,9
+I898,R146,Tiramisu,Italian,22.29,489,Beverage,57
+I899,R89,Gulab Jamun,Indian,26.95,558,Beverage,117
+I900,R59,Chole Bhature,Indian,14.85,714,Dessert,15
+I901,R23,Butter Chicken,Indian,22.36,978,Main Course,41
+I902,R92,Chiles Rellenos,Mexican,11.04,457,Dessert,36
+I903,R192,Burrito,Mexican,47.9,348,Dessert,59
+I904,R189,Sweet and Sour Pork,Chinese,37.07,160,Beverage,81
+I905,R114,Tacos,Mexican,7.32,531,Starter,46
+I906,R22,Chole Bhature,Indian,48.72,225,Dessert,91
+I907,R132,Sweet and Sour Pork,Chinese,36.34,778,Beverage,14
+I908,R79,Chiles Rellenos,Mexican,15.52,958,Beverage,15
+I909,R127,Tiramisu,Italian,17.44,786,Beverage,17
+I910,R64,Udon,Japanese,14.43,233,Beverage,15
+I911,R144,Biryani,Indian,42.97,167,Starter,15
+I912,R83,Burrito,Mexican,46.12,325,Starter,26
+I913,R90,Butter Chicken,Indian,40.19,416,Starter,9
+I914,R68,Chiles Rellenos,Mexican,47.31,695,Main Course,27
+I915,R8,Ramen,Japanese,11.64,459,Main Course,100
+I916,R12,Rogan Josh,Indian,29.96,491,Beverage,62
+I917,R188,Rogan Josh,Indian,48.88,520,Starter,38
+I918,R163,Rogan Josh,Indian,35.43,390,Starter,51
+I919,R115,Risotto,Italian,7.34,632,Main Course,100
+I920,R40,Miso Soup,Japanese,20.38,557,Dessert,66
+I921,R156,Miso Soup,Japanese,44.27,393,Main Course,115
+I922,R25,Sushi,Japanese,33.19,677,Starter,60
+I923,R122,Burrito,Mexican,35.47,359,Main Course,71
+I924,R46,Tempura,Japanese,45.27,295,Starter,116
+I925,R115,Udon,Japanese,46.24,118,Main Course,94
+I926,R99,Ramen,Japanese,21.56,606,Starter,77
+I927,R200,Pizza Margherita,Italian,9.91,828,Main Course,29
+I928,R165,Tempura,Japanese,7.04,195,Starter,110
+I929,R151,Ramen,Japanese,43.49,899,Beverage,22
+I930,R71,Fried Rice,Chinese,14.91,672,Beverage,15
+I931,R137,Mapo Tofu,Chinese,20.82,685,Starter,66
+I932,R150,Spaghetti Carbonara,Italian,21.04,199,Dessert,102
+I933,R36,Miso Soup,Japanese,46.09,811,Dessert,120
+I934,R85,Udon,Japanese,29.97,488,Starter,29
+I935,R50,Risotto,Italian,33.91,235,Dessert,66
+I936,R144,Spaghetti Carbonara,Italian,28.76,401,Main Course,48
+I937,R12,Sweet and Sour Pork,Chinese,32.49,565,Beverage,110
+I938,R149,Kung Pao Chicken,Chinese,27.71,135,Starter,43
+I939,R200,Pizza Margherita,Italian,36.09,802,Main Course,65
+I940,R37,Spaghetti Carbonara,Italian,20.76,525,Dessert,18
+I941,R182,Mapo Tofu,Chinese,21.59,624,Starter,20
+I942,R81,Chiles Rellenos,Mexican,28.66,727,Main Course,27
+I943,R157,Spaghetti Carbonara,Italian,44.52,577,Beverage,40
+I944,R100,Lasagna,Italian,24.72,286,Main Course,104
+I945,R192,Enchiladas,Mexican,17.04,445,Main Course,112
+I946,R117,Fried Rice,Chinese,26.06,490,Main Course,111
+I947,R189,Spaghetti Carbonara,Italian,7.16,477,Main Course,62
+I948,R126,Miso Soup,Japanese,25.23,932,Beverage,31
+I949,R68,Sweet and Sour Pork,Chinese,48.58,943,Beverage,9
+I950,R116,Pizza Margherita,Italian,5.05,320,Starter,56
+I951,R166,Pizza Margherita,Italian,42.2,361,Starter,118
+I952,R180,Sushi,Japanese,15.69,669,Beverage,52
+I953,R48,Risotto,Italian,15.32,904,Main Course,68
+I954,R53,Spaghetti Carbonara,Italian,48.33,329,Beverage,108
+I955,R33,Gulab Jamun,Indian,42.07,500,Beverage,64
+I956,R29,Enchiladas,Mexican,11.17,868,Main Course,48
+I957,R52,Kung Pao Chicken,Chinese,24.87,289,Main Course,43
+I958,R197,Ramen,Japanese,18.08,424,Dessert,5
+I959,R64,Ramen,Japanese,35.93,247,Dessert,93
+I960,R118,Burrito,Mexican,21.51,516,Starter,84
+I961,R147,Mapo Tofu,Chinese,33.88,980,Starter,104
+I962,R188,Sweet and Sour Pork,Chinese,32.77,495,Beverage,72
+I963,R199,Butter Chicken,Indian,42.91,550,Beverage,112
+I964,R106,Ramen,Japanese,14.16,924,Main Course,25
+I965,R59,Enchiladas,Mexican,41.6,805,Main Course,110
+I966,R16,Fried Rice,Chinese,33.4,307,Starter,25
+I967,R149,Rogan Josh,Indian,42.9,330,Main Course,68
+I968,R37,Lasagna,Italian,9.02,815,Dessert,110
+I969,R140,Burrito,Mexican,25.19,133,Main Course,7
+I970,R21,Enchiladas,Mexican,38.34,612,Main Course,97
+I971,R63,Wonton Soup,Chinese,18.42,160,Main Course,61
+I972,R169,Spaghetti Carbonara,Italian,29.82,591,Dessert,114
+I973,R19,Sushi,Japanese,18.3,356,Beverage,89
+I974,R78,Burrito,Mexican,46.77,905,Main Course,70
+I975,R159,Fried Rice,Chinese,16.93,718,Dessert,64
+I976,R84,Fried Rice,Chinese,48.71,344,Main Course,68
+I977,R170,Wonton Soup,Chinese,27.64,136,Main Course,30
+I978,R45,Wonton Soup,Chinese,23.76,102,Beverage,78
+I979,R89,Burrito,Mexican,48.39,336,Dessert,70
+I980,R31,Chiles Rellenos,Mexican,39.54,623,Starter,79
+I981,R93,Chiles Rellenos,Mexican,42.46,783,Dessert,73
+I982,R71,Chole Bhature,Indian,21.0,657,Starter,37
+I983,R61,Enchiladas,Mexican,39.75,212,Beverage,23
+I984,R186,Mapo Tofu,Chinese,29.71,145,Beverage,107
+I985,R196,Mapo Tofu,Chinese,49.33,216,Dessert,67
+I986,R137,Enchiladas,Mexican,34.69,158,Starter,26
+I987,R59,Sweet and Sour Pork,Chinese,45.6,990,Starter,118
+I988,R83,Mapo Tofu,Chinese,16.93,609,Starter,33
+I989,R68,Fried Rice,Chinese,11.3,342,Main Course,25
+I990,R1,Biryani,Indian,29.05,139,Starter,68
+I991,R139,Chole Bhature,Indian,5.68,209,Beverage,15
+I992,R73,Tacos,Mexican,35.15,946,Starter,89
+I993,R70,Enchiladas,Mexican,27.91,899,Beverage,69
+I994,R108,Miso Soup,Japanese,47.59,950,Beverage,47
+I995,R4,Butter Chicken,Indian,33.09,891,Beverage,65
+I996,R170,Kung Pao Chicken,Chinese,31.21,544,Beverage,43
+I997,R155,Wonton Soup,Chinese,47.68,533,Starter,28
+I998,R12,Chole Bhature,Indian,47.0,214,Starter,24
+I999,R62,Risotto,Italian,16.04,725,Dessert,95
+I1000,R177,Pizza Margherita,Italian,46.4,658,Dessert,105

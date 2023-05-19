@@ -1,0 +1,506 @@
+restaurant_id,facility
+R1,Pick up
+R1,Dine-in
+R1,Drive-thru
+R2,Drive-thru
+R2,Pick up
+R2,Delivery
+R2,Dine-in
+R3,Drive-thru
+R3,Delivery
+R3,Dine-in
+R4,Dine-in
+R4,Delivery
+R5,Pick up
+R5,Dine-in
+R5,Drive-thru
+R5,Delivery
+R6,Dine-in
+R6,Drive-thru
+R6,Pick up
+R7,Delivery
+R8,Drive-thru
+R9,Delivery
+R10,Dine-in
+R10,Drive-thru
+R10,Delivery
+R11,Pick up
+R11,Drive-thru
+R11,Dine-in
+R12,Drive-thru
+R12,Pick up
+R12,Dine-in
+R12,Delivery
+R13,Dine-in
+R13,Delivery
+R13,Pick up
+R13,Drive-thru
+R14,Drive-thru
+R14,Delivery
+R14,Pick up
+R15,Drive-thru
+R16,Pick up
+R16,Dine-in
+R17,Dine-in
+R17,Delivery
+R18,Delivery
+R18,Dine-in
+R18,Drive-thru
+R18,Pick up
+R19,Pick up
+R20,Drive-thru
+R20,Delivery
+R20,Pick up
+R20,Dine-in
+R21,Pick up
+R21,Dine-in
+R21,Delivery
+R21,Drive-thru
+R22,Delivery
+R22,Drive-thru
+R22,Pick up
+R23,Delivery
+R24,Delivery
+R24,Pick up
+R24,Dine-in
+R24,Drive-thru
+R25,Pick up
+R25,Drive-thru
+R26,Dine-in
+R26,Pick up
+R26,Drive-thru
+R26,Delivery
+R27,Delivery
+R27,Dine-in
+R28,Delivery
+R28,Pick up
+R28,Drive-thru
+R29,Dine-in
+R30,Pick up
+R31,Delivery
+R31,Drive-thru
+R31,Dine-in
+R31,Pick up
+R32,Delivery
+R32,Drive-thru
+R32,Pick up
+R32,Dine-in
+R33,Drive-thru
+R34,Drive-thru
+R34,Pick up
+R34,Dine-in
+R35,Drive-thru
+R36,Pick up
+R37,Pick up
+R38,Pick up
+R38,Dine-in
+R39,Drive-thru
+R40,Pick up
+R41,Dine-in
+R41,Delivery
+R41,Pick up
+R41,Drive-thru
+R42,Delivery
+R42,Pick up
+R42,Drive-thru
+R42,Dine-in
+R43,Pick up
+R43,Delivery
+R44,Drive-thru
+R44,Dine-in
+R45,Drive-thru
+R45,Dine-in
+R45,Pick up
+R46,Drive-thru
+R46,Dine-in
+R47,Delivery
+R47,Dine-in
+R47,Pick up
+R47,Drive-thru
+R48,Drive-thru
+R49,Drive-thru
+R49,Delivery
+R49,Pick up
+R49,Dine-in
+R50,Drive-thru
+R50,Dine-in
+R51,Delivery
+R52,Delivery
+R52,Pick up
+R52,Dine-in
+R52,Drive-thru
+R53,Dine-in
+R53,Pick up
+R53,Drive-thru
+R53,Delivery
+R54,Dine-in
+R54,Drive-thru
+R54,Pick up
+R55,Drive-thru
+R55,Dine-in
+R55,Pick up
+R56,Dine-in
+R57,Pick up
+R58,Drive-thru
+R58,Dine-in
+R58,Delivery
+R58,Pick up
+R59,Delivery
+R60,Delivery
+R60,Pick up
+R60,Dine-in
+R60,Drive-thru
+R61,Pick up
+R61,Delivery
+R61,Drive-thru
+R62,Pick up
+R63,Dine-in
+R64,Dine-in
+R64,Delivery
+R64,Drive-thru
+R64,Pick up
+R65,Dine-in
+R65,Pick up
+R65,Delivery
+R65,Drive-thru
+R66,Pick up
+R66,Delivery
+R66,Drive-thru
+R66,Dine-in
+R67,Dine-in
+R67,Delivery
+R67,Pick up
+R68,Drive-thru
+R68,Dine-in
+R68,Pick up
+R68,Delivery
+R69,Delivery
+R69,Pick up
+R70,Pick up
+R70,Drive-thru
+R70,Delivery
+R71,Delivery
+R71,Drive-thru
+R71,Dine-in
+R72,Pick up
+R72,Drive-thru
+R72,Delivery
+R72,Dine-in
+R73,Delivery
+R73,Drive-thru
+R74,Pick up
+R74,Delivery
+R75,Pick up
+R75,Delivery
+R76,Delivery
+R76,Pick up
+R77,Dine-in
+R77,Drive-thru
+R78,Delivery
+R78,Drive-thru
+R79,Delivery
+R80,Drive-thru
+R81,Dine-in
+R81,Pick up
+R82,Dine-in
+R83,Delivery
+R83,Dine-in
+R83,Pick up
+R83,Drive-thru
+R84,Delivery
+R84,Drive-thru
+R84,Dine-in
+R84,Pick up
+R85,Drive-thru
+R86,Dine-in
+R87,Delivery
+R87,Drive-thru
+R88,Dine-in
+R88,Pick up
+R89,Drive-thru
+R89,Pick up
+R89,Delivery
+R90,Dine-in
+R90,Drive-thru
+R90,Pick up
+R91,Delivery
+R91,Pick up
+R91,Drive-thru
+R91,Dine-in
+R92,Pick up
+R92,Dine-in
+R93,Pick up
+R93,Delivery
+R94,Dine-in
+R94,Drive-thru
+R94,Pick up
+R94,Delivery
+R95,Pick up
+R95,Delivery
+R95,Drive-thru
+R96,Pick up
+R96,Delivery
+R96,Dine-in
+R96,Drive-thru
+R97,Dine-in
+R97,Delivery
+R98,Dine-in
+R99,Pick up
+R99,Drive-thru
+R100,Delivery
+R100,Pick up
+R100,Drive-thru
+R100,Dine-in
+R101,Drive-thru
+R101,Dine-in
+R102,Drive-thru
+R102,Dine-in
+R102,Pick up
+R103,Delivery
+R103,Pick up
+R103,Dine-in
+R103,Drive-thru
+R104,Pick up
+R104,Drive-thru
+R105,Delivery
+R105,Pick up
+R106,Dine-in
+R107,Pick up
+R107,Dine-in
+R107,Delivery
+R108,Dine-in
+R108,Pick up
+R108,Delivery
+R109,Drive-thru
+R109,Dine-in
+R109,Pick up
+R109,Delivery
+R110,Pick up
+R110,Drive-thru
+R111,Delivery
+R111,Drive-thru
+R111,Pick up
+R111,Dine-in
+R112,Pick up
+R112,Dine-in
+R113,Dine-in
+R113,Pick up
+R113,Drive-thru
+R114,Pick up
+R114,Delivery
+R114,Dine-in
+R114,Drive-thru
+R115,Drive-thru
+R115,Pick up
+R115,Dine-in
+R115,Delivery
+R116,Drive-thru
+R117,Drive-thru
+R117,Delivery
+R117,Dine-in
+R118,Dine-in
+R118,Delivery
+R118,Pick up
+R118,Drive-thru
+R119,Pick up
+R120,Pick up
+R120,Drive-thru
+R120,Dine-in
+R120,Delivery
+R121,Dine-in
+R121,Delivery
+R122,Dine-in
+R122,Delivery
+R122,Drive-thru
+R122,Pick up
+R123,Delivery
+R123,Pick up
+R124,Drive-thru
+R124,Pick up
+R125,Delivery
+R125,Dine-in
+R125,Pick up
+R125,Drive-thru
+R126,Pick up
+R127,Delivery
+R128,Dine-in
+R129,Drive-thru
+R129,Delivery
+R130,Drive-thru
+R130,Dine-in
+R130,Pick up
+R130,Delivery
+R131,Delivery
+R132,Drive-thru
+R132,Pick up
+R132,Delivery
+R133,Drive-thru
+R133,Delivery
+R134,Drive-thru
+R135,Dine-in
+R135,Delivery
+R136,Delivery
+R136,Drive-thru
+R137,Dine-in
+R138,Delivery
+R138,Drive-thru
+R138,Pick up
+R139,Dine-in
+R140,Delivery
+R141,Drive-thru
+R142,Dine-in
+R142,Delivery
+R142,Drive-thru
+R142,Pick up
+R143,Dine-in
+R143,Pick up
+R143,Delivery
+R144,Delivery
+R144,Pick up
+R144,Drive-thru
+R144,Dine-in
+R145,Delivery
+R146,Pick up
+R146,Dine-in
+R146,Delivery
+R146,Drive-thru
+R147,Pick up
+R147,Dine-in
+R147,Drive-thru
+R148,Drive-thru
+R148,Pick up
+R148,Dine-in
+R149,Delivery
+R149,Dine-in
+R149,Drive-thru
+R149,Pick up
+R150,Delivery
+R150,Pick up
+R151,Pick up
+R151,Drive-thru
+R151,Delivery
+R152,Delivery
+R152,Pick up
+R152,Drive-thru
+R153,Delivery
+R154,Delivery
+R154,Dine-in
+R154,Pick up
+R154,Drive-thru
+R155,Dine-in
+R156,Dine-in
+R157,Dine-in
+R157,Delivery
+R157,Pick up
+R157,Drive-thru
+R158,Delivery
+R158,Pick up
+R159,Drive-thru
+R160,Dine-in
+R161,Dine-in
+R161,Drive-thru
+R161,Pick up
+R161,Delivery
+R162,Drive-thru
+R162,Delivery
+R162,Pick up
+R163,Drive-thru
+R163,Dine-in
+R163,Pick up
+R164,Delivery
+R164,Pick up
+R164,Drive-thru
+R164,Dine-in
+R165,Delivery
+R165,Dine-in
+R165,Drive-thru
+R165,Pick up
+R166,Delivery
+R166,Drive-thru
+R166,Dine-in
+R166,Pick up
+R167,Drive-thru
+R167,Dine-in
+R167,Delivery
+R167,Pick up
+R168,Dine-in
+R168,Pick up
+R168,Drive-thru
+R168,Delivery
+R169,Dine-in
+R170,Delivery
+R170,Drive-thru
+R171,Dine-in
+R171,Delivery
+R172,Drive-thru
+R172,Dine-in
+R172,Pick up
+R173,Drive-thru
+R173,Dine-in
+R174,Delivery
+R175,Drive-thru
+R175,Dine-in
+R175,Delivery
+R176,Dine-in
+R176,Pick up
+R176,Drive-thru
+R177,Pick up
+R177,Drive-thru
+R177,Delivery
+R177,Dine-in
+R178,Dine-in
+R178,Pick up
+R178,Drive-thru
+R179,Pick up
+R179,Dine-in
+R180,Dine-in
+R180,Pick up
+R180,Delivery
+R181,Delivery
+R181,Pick up
+R182,Dine-in
+R182,Delivery
+R183,Dine-in
+R183,Delivery
+R183,Pick up
+R184,Drive-thru
+R185,Drive-thru
+R186,Delivery
+R186,Pick up
+R187,Delivery
+R187,Drive-thru
+R187,Pick up
+R187,Dine-in
+R188,Pick up
+R189,Dine-in
+R189,Drive-thru
+R190,Drive-thru
+R190,Delivery
+R190,Dine-in
+R190,Pick up
+R191,Delivery
+R192,Drive-thru
+R192,Delivery
+R192,Pick up
+R192,Dine-in
+R193,Drive-thru
+R193,Pick up
+R193,Dine-in
+R193,Delivery
+R194,Drive-thru
+R195,Drive-thru
+R195,Dine-in
+R195,Delivery
+R196,Pick up
+R196,Dine-in
+R196,Delivery
+R197,Drive-thru
+R197,Pick up
+R198,Pick up
+R198,Delivery
+R198,Drive-thru
+R199,Pick up
+R199,Dine-in
+R200,Delivery
+R200,Dine-in
+R200,Pick up

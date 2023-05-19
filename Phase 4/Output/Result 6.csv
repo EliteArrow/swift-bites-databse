@@ -1,0 +1,130 @@
+restaurant_id,restaurant_Name,average_delivery_time
+R28,"The Blueberry Hill",NULL
+R123,Collins-Fernandez,NULL
+R110,"Moss Ltd",NULL
+R1,"Robertson Bakery",NULL
+R42,Ward-Chang,NULL
+R69,"Collier Group",NULL
+R102,"La Cocina de Consuelo",NULL
+R66,"Pitts LLC",NULL
+R76,"Andhra Spice",NULL
+R132,"Davis and Sons",NULL
+R20,"The Blue Olive",NULL
+R143,Brown-Jackson,NULL
+R81,"King and Sons",NULL
+R26,"The Secret Garden Cafe",NULL
+R2,Patel-Brennan,NULL
+R105,"Los Tres Amigos",NULL
+R170,Rivas-James,NULL
+R199,Havemore,NULL
+R128,Jones-Owens,NULL
+R127,Peters-Miller,NULL
+R129,"Anderson Group",NULL
+R162,"Williams Group",NULL
+R113,Webb-Smith,NULL
+R60,"Mccormick Inc",NULL
+R153,"Oaxaca Taqueria",NULL
+R68,"Jones Group",NULL
+R193,Turner-Pratt,NULL
+R34,"Raymond Group",1.5000
+R37,Simpson-Perkins,2.0000
+R79,Holmes-Harmon,2.0000
+R152,"Rich Group",2.0000
+R137,Richardson-Young,2.0000
+R157,"Casa Vega",2.0000
+R183,"Hernandez Waffles",2.0000
+R106,"La Carreta",2.0000
+R71,"Keralite Kitchen",2.0000
+R161,"El Guapo",2.0000
+R67,"Pind Balluchi",2.0000
+R46,"Ortiz Ltd",2.0000
+R38,Hernandez-Montgomery,2.0000
+R173,"Chicken Express",2.0000
+R168,Grant-Harvey,2.0000
+R145,"La Poblanita",2.0000
+R17,"Arnold and Sons",2.0000
+R194,Park-Duran,2.0000
+R18,"The Hungry Fox",2.0000
+R86,"Taqueria Los Comales",2.0000
+R98,Powers-Lindsey,2.0000
+R121,"La Azteca Tortilleria",2.0000
+R140,"Henderson and Sons",2.0000
+R35,"Chung Group",2.0000
+R74,Mccullough-Cooper,2.0000
+R22,"The Green Plate",2.0000
+R36,Lopez-Le,2.0000
+R58,"Chettinadu Kitchen",2.0000
+R50,Williams-Ryan,2.0000
+R84,"Marquez Group",2.0000
+R10,Wells-Cummings,2.0000
+R70,Martin-Sanders,2.0000
+R116,"Young Inc",2.0000
+R150,Powell-Wood,2.0000
+R13,"The Maxican Gill",2.0000
+R154,Mcneil-Lawson,2.0000
+R192,Smith-Curtis,2.0000
+R125,"Pindi Chole Wala",2.0000
+R134,Beck-Beck,2.0000
+R166,Smith-Munoz,2.0000
+R181,"Knight PLC",2.0000
+R112,Robbins-Miller,2.0000
+R12,"Mcdowell Inc",2.0000
+R185,Knapp-Taylor,2.0000
+R44,"Ellis Ltd",2.0000
+R131,Salazar-Turner,3.0000
+R96,"Miller Ltd",3.0000
+R101,Brewer-Bennett,4.0000
+R172,Vasquez-Leonard,4.5000
+R90,"La Tapatia",5.0000
+R48,Ruiz-Patel,5.0000
+R191,"Holmes and Sons",5.5000
+R107,"Reyes PLC",6.0000
+R177,Bauer-Moore,6.0000
+R33,"Burke LLC",6.0000
+R126,Johnston-Sullivan,7.0000
+R6,"Harris Ltd",9.0000
+R198,"Wilkerson LLC",9.7500
+R15,Gilbert-Lee,10.0000
+R158,Brown-Mejia,10.5000
+R21,"The Blue Olive",10.6667
+R61,Morrow-Best,11.0000
+R62,"Mccann Inc",11.0000
+R45,"The Spicy Noodle",11.3333
+R16,"Smith Wings",11.5000
+R9,Nguyen-Jenkins,11.6667
+R97,"La Super-Rica Taqueria",12.0000
+R89,"El Pollo Loco",12.5000
+R176,Scott-Yang,12.5000
+R85,"Fox PLC",14.5000
+R40,"The Spicy Noodle",15.0000
+R184,Adams-Kennedy,15.0000
+R124,"Bong Appetit",15.0000
+R104,Jones-Cobb,15.5000
+R3,"Johnson and Levy Brothers",17.0000
+R24,"The Golden Spoon",17.0000
+R63,Rogers-Baker,17.0000
+R51,"Davis Inc",17.5000
+R119,"Bates Ltd",18.0000
+R142,"Annapurna Bhojanalaya",19.0000
+R174,"Mole Poblano Cafe",20.0000
+R80,"Biryani Paradise",21.0000
+R11,"Morgan Italian Nights",25.0000
+R147,"El Cholo",25.0000
+R136,"Amritsari Kulcha Corner",27.0000
+R175,"Taco Bell",29.0000
+R100,"Robinson LLC",31.0000
+R47,"Gutierrez Ltd",31.0000
+R29,"The Cozy Café",32.0000
+R178,Scott-Johnson,32.0000
+R57,Wallace-Delgado,33.0000
+R41,"The Green Peas",38.0000
+R159,"Burger King",39.0000
+R118,"Taqueria El Antojito",39.0000
+R7,"Harding Lobsters",40.0000
+R92,"Mcneil Inc",45.0000
+R114,"Smith Inc",48.0000
+R120,"El Charro Cafe",51.0000
+R122,"Dakshin Curry House",52.0000
+R95,"El Rincon Mexicano",53.0000
+R64,"Kathi Roll Corner",54.0000
+R169,"Hobbs Ltd",54.0000
